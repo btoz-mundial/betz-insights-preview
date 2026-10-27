@@ -30,6 +30,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        }
       }
     },
     {
@@ -56,6 +72,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 0,
+          "total_points": 10
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 0,
+          "total_points": 10
+        }
       }
     },
     {
@@ -82,6 +114,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        }
       }
     },
     {
@@ -108,6 +156,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 0,
+          "total_points": 10
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 0,
+          "total_points": 10
+        }
       }
     },
     {
@@ -134,6 +198,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 7,
+          "extra_points": 0,
+          "total_points": 7
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 7,
+          "extra_points": 0,
+          "total_points": 7
+        }
       }
     },
     {
@@ -160,6 +240,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 6,
+          "extra_points": 0,
+          "total_points": 6
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 6,
+          "extra_points": 0,
+          "total_points": 6
+        }
       }
     },
     {
@@ -186,6 +282,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 9,
+          "extra_points": 2,
+          "total_points": 11
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 9,
+          "extra_points": 2,
+          "total_points": 11
+        }
       }
     },
     {
@@ -212,6 +324,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 0,
+          "total_points": 12
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 0,
+          "total_points": 12
+        }
       }
     },
     {
@@ -238,6 +366,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 0,
+          "total_points": 11
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 0,
+          "total_points": 11
+        }
       }
     },
     {
@@ -264,6 +408,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 2,
+          "total_points": 14
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 2,
+          "total_points": 14
+        }
       }
     },
     {
@@ -290,6 +450,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 2,
+          "total_points": 13
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 2,
+          "total_points": 13
+        }
       }
     },
     {
@@ -316,6 +492,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 1,
+          "total_points": 13
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 12,
+          "extra_points": 1,
+          "total_points": 13
+        }
       }
     },
     {
@@ -342,6 +534,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 1,
+          "total_points": 11
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 10,
+          "extra_points": 1,
+          "total_points": 11
+        }
       }
     },
     {
@@ -368,6 +576,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 0,
+          "total_points": 11
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 0,
+          "total_points": 11
+        }
       }
     },
     {
@@ -394,6 +618,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 1,
+          "total_points": 12
+        }
       }
     },
     {
@@ -420,6 +660,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 9,
+          "extra_points": 1,
+          "total_points": 10
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 9,
+          "extra_points": 1,
+          "total_points": 10
+        }
       }
     },
     {
@@ -446,6 +702,22 @@
           }
         ],
         "lock_evidence": []
+      },
+      "scoring_points": {
+        "season": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 2,
+          "total_points": 13
+        },
+        "week": {
+          "status": "available",
+          "reason_code": null,
+          "correct_points": 11,
+          "extra_points": 2,
+          "total_points": 13
+        }
       }
     }
   ]

@@ -6,7 +6,7 @@
   "public_repository": "btoz-mundial/betz-insights-preview",
   "source_repository": "btoz-mundial/SideHustle",
   "source_branch": "dev/insights-preview",
-  "source_commit": "dfb1d9047a7b72450c04435e220c0db160815f39",
+  "source_commit": "654631a4a586cd5915761311a8d441d2974f44c2",
   "public_baseline_repository": "betz-app/betz-app.github.io",
   "public_baseline_commit": "3fedd258ab900c611981a4c2a4f6eff4f7b0bb51",
   "captured_at": "2026-10-27T17:19:12.631Z",
@@ -590,7 +590,7 @@
     "files": [
       {
         "path": "data/NFL2026/checkpoints/REG-1/insights/player_insights.json",
-        "sha256": "fe14a20cefbdae5c405735458122f216ea4029e66a8bda7afeae7680052ac8bd"
+        "sha256": "5cf31508aa1ef39dd9b0f2b35861ea7927cec0e648a1ba0cddb39fe530718b6d"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-1/insights/indicators/winner_pick_accuracy.json",
@@ -614,7 +614,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-1/insights/indicators/weekly_resolution.json",
-        "sha256": "869cab76a14c2ea8f96a15f956d14fe22b90eb6a06a89ce8c9d8d52be9d38e78"
+        "sha256": "550b76d12836fa8c36a2e9b66ced87396e51b3359105b031b3654d119c6e15e3"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-1/insights/indicators/group_contribution.json",
@@ -626,7 +626,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-2/insights/player_insights.json",
-        "sha256": "a45dfed989f537a21fdd6ced8eeb8de72022c608ae5c7f779d0e63f1748e5288"
+        "sha256": "d5a9b2e309897990b3c3ed326df6956a668c40c929d1d637b90e7f9f326cdd36"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-2/insights/indicators/winner_pick_accuracy.json",
@@ -650,7 +650,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-2/insights/indicators/weekly_resolution.json",
-        "sha256": "938c55896e5b18d3d3499b351db8ffcf7e74529796d4a838bccf68650b801fad"
+        "sha256": "31b9ef7557f1b0e23e9c28e7e65f40ae4b7dfaceba0cdf07e8d52f276f36c09c"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-2/insights/indicators/group_contribution.json",
@@ -662,7 +662,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-3/insights/player_insights.json",
-        "sha256": "dbc989ffc429ae346502adb4085f71e694650c8872e0be095db0e01a1ad00e62"
+        "sha256": "0dab60899508b4fce42d36d90a97080ba531f533cf53bb19216731135598bfe9"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-3/insights/indicators/winner_pick_accuracy.json",
@@ -686,7 +686,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-3/insights/indicators/weekly_resolution.json",
-        "sha256": "2f0a699714de81a60bee858c908eb333b0de0ec0e8b8f04beaa59af4f90756a6"
+        "sha256": "b22927e3e2e1b4108cf66a2d2b0a7732aecaac67301cb64a8d46d56aef4947b7"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-3/insights/indicators/group_contribution.json",
@@ -698,7 +698,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-4/insights/player_insights.json",
-        "sha256": "b0e793f4b42a9d9fd2cc74380844d53c1311fea16ba9a969bdc1078c9452bc28"
+        "sha256": "26f58f34d2b28201011dbe897c85bd2ef85b919f485d212410847342295cda8f"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-4/insights/indicators/winner_pick_accuracy.json",
@@ -722,7 +722,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-4/insights/indicators/weekly_resolution.json",
-        "sha256": "768c7ac73b212f3e3c5829baa55721f397de3b17383eb093ddd221cca2fefd58"
+        "sha256": "9a6430eae78948f5cccf00ce5adf5c34f5b741a1dd3cf40c248fe7cefe47e74b"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-4/insights/indicators/group_contribution.json",
@@ -734,7 +734,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-5/insights/player_insights.json",
-        "sha256": "6040e7fc9a3b72a40b5a2f445a83a5e4432c5f683cdcdf217a84c059d51d08ee"
+        "sha256": "020198789f5901caf72410d1406f631081def19b98b07510601c576bb3d9308d"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-5/insights/indicators/winner_pick_accuracy.json",
@@ -758,7 +758,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-5/insights/indicators/weekly_resolution.json",
-        "sha256": "a5d71bf0d42bbfd3170e62bb95ca6974ce8ec22d66beed484797117ea6095dda"
+        "sha256": "aa9ae34112b37f1c6e959320d2a66546c1df7da0d8d52d35144125ad4e1b2760"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-5/insights/indicators/group_contribution.json",
@@ -770,7 +770,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-6/insights/player_insights.json",
-        "sha256": "cc514ed279e865df1448da9fd448f734459a13a5ed86aa6ecbf235c41ef6ff5b"
+        "sha256": "baf2a40c7cc0a9c3109d1ee37a6d7e2a9daa56d53d37efe8a7da812500abd26a"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-6/insights/indicators/winner_pick_accuracy.json",
@@ -794,7 +794,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-6/insights/indicators/weekly_resolution.json",
-        "sha256": "5ef1cba9480dbef0cbb9460f4ae16676c625f18d510e5d43e5e005455ae31992"
+        "sha256": "cb5d55ab1e5c7c88473835a785bbda42b9e2aab55b966b5db9db44172003380f"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-6/insights/indicators/group_contribution.json",
@@ -806,7 +806,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-7/insights/player_insights.json",
-        "sha256": "831efa77d82fc629520bf0c48f010068ccae5a4148bbc45d3b4d7f37c73f6365"
+        "sha256": "58d031b7cae137680b8ee308104085460c19be713d2155f5bc9b5c4ea526ffc2"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-7/insights/indicators/winner_pick_accuracy.json",
@@ -830,7 +830,7 @@
       },
       {
         "path": "data/NFL2026/checkpoints/REG-7/insights/indicators/weekly_resolution.json",
-        "sha256": "3c3d4e089fa91888a25b4432412dacec3ad80d8ba73858526ca614a5b16aa66f"
+        "sha256": "a94e8cbf62f54ad5023f0ee7ae96e32d2431dc08f5217ca660511dbfe480e69d"
       },
       {
         "path": "data/NFL2026/checkpoints/REG-7/insights/indicators/group_contribution.json",

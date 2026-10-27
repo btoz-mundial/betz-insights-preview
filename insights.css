@@ -115,3 +115,6 @@
 
 .ix-profile-entry{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid rgba(10,245,225,.28);border-radius:12px;background:var(--surface);color:var(--turq);padding:14px 16px;margin:0 0 22px;text-align:left;cursor:pointer;font-family:var(--body)}
 .ix-profile-entry b{display:block;font-size:13px;font-weight:600}.ix-profile-entry small{display:block;color:var(--muted);font-size:11px;margin-top:5px}.ix-profile-entry>span:last-child{font-size:24px}.ix-profile-entry:focus-visible{outline:2px solid var(--turq);outline-offset:4px}
+
+.ix-table .ix-extra-row>*{border-top:1px solid var(--line)}
+.ix-table .ix-total-row>*{color:var(--turq);font-weight:700;background:rgba(10,245,225,.04)}
