@@ -118,3 +118,5 @@
 
 .ix-table .ix-extra-row>*{border-top:1px solid var(--line)}
 .ix-table .ix-total-row>*{color:var(--turq);font-weight:700;background:rgba(10,245,225,.04)}
+
+.ix-select-context{display:block;margin-top:6px;color:var(--muted);font-size:9px;line-height:1.4}

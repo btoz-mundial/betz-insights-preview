@@ -6,7 +6,7 @@
   "public_repository": "btoz-mundial/betz-insights-preview",
   "source_repository": "btoz-mundial/SideHustle",
   "source_branch": "dev/insights-preview",
-  "source_commit": "654631a4a586cd5915761311a8d441d2974f44c2",
+  "source_commit": "46495dd74f0c6015f8f3e1332b2e2fc27130e3d3",
   "public_baseline_repository": "betz-app/betz-app.github.io",
   "public_baseline_commit": "3fedd258ab900c611981a4c2a4f6eff4f7b0bb51",
   "captured_at": "2026-10-27T17:19:12.631Z",
