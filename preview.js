@@ -26,7 +26,7 @@ loadRuntime = async function loadPreviewRuntime(){
 };
 
 //--------------------------------------------------------------
-// 2. Read-only behavior; no receiver, capture, or telemetry
+// 2. Read-only behavior; retain the full navigation for layout review
 //--------------------------------------------------------------
 initClarity = function(){ /* Preview sessions never enter production telemetry. */ };
 getRootJSON = async function(){ return null; };
@@ -38,10 +38,13 @@ renderPickChips = function(){
   el("p-pickchip-slot").textContent = "";
   el("p-nolock").hidden = true;
 };
-const privateGroupsIndex = TABS.findIndex(tab => tab[0] === "grupos");
-if(privateGroupsIndex >= 0) TABS.splice(privateGroupsIndex, 1);
-nav.querySelector('[data-go="grupos"]')?.remove();
-sgOnEnter = function(){ fail("Los grupos privados no forman parte de esta copia de pruebas."); };
+renderGrupos = function renderPreviewGroupsPlaceholder(){
+  const screen = document.querySelector('.screen[data-route="grupos"]');
+  screen.querySelector(".h1").textContent = "Mis grupos";
+  screen.querySelector(".sub").textContent = "Tu gente. Tus cuentas pendientes.";
+  el("grupos-root").innerHTML = '<div class="stub"><h3>Aquí se arma la rivalidad.</h3><p>Espacio reservado para tus grupos. En esta página de pruebas solo mostramos su lugar en la navegación.</p><span class="tag">Placeholder</span></div>';
+};
+sgOnEnter = function(){ renderGrupos(); };
 const originalRenderPerfil = renderPerfil;
 renderPerfil = function(){ originalRenderPerfil(); el("my-predictions-nav").hidden = true; };
 document.addEventListener("click", event => {
