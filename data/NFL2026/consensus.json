@@ -1,0 +1,3894 @@
+{
+  "contract_type": "betz_public_frozen_consensus",
+  "contract_version": "1.0",
+  "competition_id": "NFL2026",
+  "periods": {
+    "REG-1": {
+      "cursor": "REG016",
+      "matches": [
+        {
+          "match_id": "REG001",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 13,
+              "prediction_rate": 0.8125
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 13,
+              "prediction_rate": 0.8125
+            },
+            {
+              "team_id": "NE",
+              "prediction_count": 3,
+              "prediction_rate": 0.1875
+            }
+          ],
+          "consensus_strength": 0.8125,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SEA ganó 13–10."
+        },
+        {
+          "match_id": "REG002",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            },
+            {
+              "team_id": "SF",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "SF ganó 27–7."
+        },
+        {
+          "match_id": "REG003",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "ATL",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "PIT",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PIT ganó 20–13."
+        },
+        {
+          "match_id": "REG004",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "IND",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            },
+            {
+              "team_id": "BAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "BAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BAL ganó 41–23."
+        },
+        {
+          "match_id": "REG005",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "BUF",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "BUF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BUF ganó 36–31."
+        },
+        {
+          "match_id": "REG006",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            },
+            {
+              "team_id": "CHI",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CHI ganó 59–37."
+        },
+        {
+          "match_id": "REG007",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "CLE",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "JAX",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "JAX ganó 34–10."
+        },
+        {
+          "match_id": "REG008",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DET",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DET",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "NO",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "DET",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DET ganó 31–30."
+        },
+        {
+          "match_id": "REG009",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            },
+            {
+              "team_id": "NYJ",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "TEN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYJ ganó 23–10."
+        },
+        {
+          "match_id": "REG010",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "TB",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "CIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CIN ganó 33–27."
+        },
+        {
+          "match_id": "REG011",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAC",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAC",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "ARI",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "LAC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "ARI ganó 26–14."
+        },
+        {
+          "match_id": "REG012",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            },
+            {
+              "team_id": "GB",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "MIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "MIN ganó 39–22."
+        },
+        {
+          "match_id": "REG013",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LV",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LV",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            },
+            {
+              "team_id": "MIA",
+              "prediction_count": 5,
+              "prediction_rate": 0.294118
+            }
+          ],
+          "consensus_strength": 0.705882,
+          "has_majority": true,
+          "consensus_team_id": "LV",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "LV ganó 27–13."
+        },
+        {
+          "match_id": "REG014",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            },
+            {
+              "team_id": "WSH",
+              "prediction_count": 1,
+              "prediction_rate": 0.0625
+            }
+          ],
+          "consensus_strength": 0.9375,
+          "has_majority": true,
+          "consensus_team_id": "PHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PHI ganó 24–22."
+        },
+        {
+          "match_id": "REG015",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            },
+            {
+              "team_id": "DAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "DAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYG ganó 28–20."
+        },
+        {
+          "match_id": "REG016",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "KC",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            },
+            {
+              "team_id": "DEN",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "KC ganó 31–10."
+        }
+      ]
+    },
+    "REG-2": {
+      "cursor": "REG032",
+      "matches": [
+        {
+          "match_id": "REG017",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "DET",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "BUF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BUF ganó 41–31."
+        },
+        {
+          "match_id": "REG018",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ATL",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "CAR",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "CAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CAR ganó 34–3."
+        },
+        {
+          "match_id": "REG019",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "NO",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "BAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NO ganó 24–17."
+        },
+        {
+          "match_id": "REG020",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            },
+            {
+              "team_id": "MIN",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "MIN ganó 9–3."
+        },
+        {
+          "match_id": "REG021",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            },
+            {
+              "team_id": "CIN",
+              "prediction_count": 5,
+              "prediction_rate": 0.294118
+            }
+          ],
+          "consensus_strength": 0.705882,
+          "has_majority": true,
+          "consensus_team_id": "HOU",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CIN ganó 20–6."
+        },
+        {
+          "match_id": "REG022",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NE",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NE",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            },
+            {
+              "team_id": "PIT",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "NE",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "NE ganó 20–3."
+        },
+        {
+          "match_id": "REG023",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "GB",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYJ",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            },
+            {
+              "team_id": "GB",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "GB",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "GB ganó 20–17."
+        },
+        {
+          "match_id": "REG024",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "TB",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TB",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "CLE",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "TB",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CLE ganó 23–19."
+        },
+        {
+          "match_id": "REG025",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            },
+            {
+              "team_id": "PHI",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "PHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PHI ganó 24–20."
+        },
+        {
+          "match_id": "REG026",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            },
+            {
+              "team_id": "JAX",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "DEN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DEN ganó 20–13."
+        },
+        {
+          "match_id": "REG027",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAC",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAC",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            },
+            {
+              "team_id": "LV",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "LAC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "LV ganó 26–14."
+        },
+        {
+          "match_id": "REG028",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ARI",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "SEA",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SEA ganó 31–7."
+        },
+        {
+          "match_id": "REG029",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            },
+            {
+              "team_id": "WSH",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "DAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DAL ganó 37–20."
+        },
+        {
+          "match_id": "REG030",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SF",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SF",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "MIA",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "SF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SF ganó 35–13."
+        },
+        {
+          "match_id": "REG031",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "KC",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "IND",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "KC ganó 33–30."
+        },
+        {
+          "match_id": "REG032",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            },
+            {
+              "team_id": "NYG",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "LAR ganó 28–6."
+        }
+      ]
+    },
+    "REG-3": {
+      "cursor": "REG048",
+      "matches": [
+        {
+          "match_id": "REG033",
+          "registered_players": 17,
+          "valid_predictions": 14,
+          "missing_predictions": 3,
+          "coverage_rate": 0.823529,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "GB",
+              "prediction_count": 11,
+              "prediction_rate": 0.785714
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "GB",
+              "prediction_count": 11,
+              "prediction_rate": 0.785714
+            },
+            {
+              "team_id": "ATL",
+              "prediction_count": 3,
+              "prediction_rate": 0.214286
+            }
+          ],
+          "consensus_strength": 0.785714,
+          "has_majority": true,
+          "consensus_team_id": "GB",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "ATL ganó 35–14."
+        },
+        {
+          "match_id": "REG034",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            },
+            {
+              "team_id": "LAC",
+              "prediction_count": 1,
+              "prediction_rate": 0.076923
+            }
+          ],
+          "consensus_strength": 0.923077,
+          "has_majority": true,
+          "consensus_team_id": "BUF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BUF ganó 24–16."
+        },
+        {
+          "match_id": "REG035",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 10,
+              "prediction_rate": 0.769231
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CLE",
+              "prediction_count": 3,
+              "prediction_rate": 0.230769
+            },
+            {
+              "team_id": "CAR",
+              "prediction_count": 10,
+              "prediction_rate": 0.769231
+            }
+          ],
+          "consensus_strength": 0.769231,
+          "has_majority": true,
+          "consensus_team_id": "CAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CLE ganó 21–18."
+        },
+        {
+          "match_id": "REG036",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DET",
+              "prediction_count": 11,
+              "prediction_rate": 0.846154
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DET",
+              "prediction_count": 11,
+              "prediction_rate": 0.846154
+            },
+            {
+              "team_id": "NYJ",
+              "prediction_count": 2,
+              "prediction_rate": 0.153846
+            }
+          ],
+          "consensus_strength": 0.846154,
+          "has_majority": true,
+          "consensus_team_id": "DET",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DET ganó 31–24."
+        },
+        {
+          "match_id": "REG037",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 9,
+              "prediction_rate": 0.692308
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "IND",
+              "prediction_count": 4,
+              "prediction_rate": 0.307692
+            },
+            {
+              "team_id": "HOU",
+              "prediction_count": 9,
+              "prediction_rate": 0.692308
+            }
+          ],
+          "consensus_strength": 0.692308,
+          "has_majority": true,
+          "consensus_team_id": "HOU",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "IND ganó 19–17."
+        },
+        {
+          "match_id": "REG038",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 10,
+              "prediction_rate": 0.769231
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 10,
+              "prediction_rate": 0.769231
+            },
+            {
+              "team_id": "NE",
+              "prediction_count": 3,
+              "prediction_rate": 0.230769
+            }
+          ],
+          "consensus_strength": 0.769231,
+          "has_majority": true,
+          "consensus_team_id": "JAX",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "JAX ganó 35–6."
+        },
+        {
+          "match_id": "REG039",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "MIA",
+              "prediction_count": 1,
+              "prediction_rate": 0.076923
+            },
+            {
+              "team_id": "KC",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            }
+          ],
+          "consensus_strength": 0.923077,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "KC ganó 24–10."
+        },
+        {
+          "match_id": "REG040",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 8,
+              "prediction_rate": 0.615385
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 5,
+              "prediction_rate": 0.384615
+            },
+            {
+              "team_id": "TEN",
+              "prediction_count": 8,
+              "prediction_rate": 0.615385
+            }
+          ],
+          "consensus_strength": 0.615385,
+          "has_majority": true,
+          "consensus_team_id": "TEN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYG ganó 12–7."
+        },
+        {
+          "match_id": "REG041",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 11,
+              "prediction_rate": 0.846154
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 2,
+              "prediction_rate": 0.153846
+            },
+            {
+              "team_id": "CIN",
+              "prediction_count": 11,
+              "prediction_rate": 0.846154
+            }
+          ],
+          "consensus_strength": 0.846154,
+          "has_majority": true,
+          "consensus_team_id": "CIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "PIT ganó 30–27."
+        },
+        {
+          "match_id": "REG042",
+          "registered_players": 17,
+          "valid_predictions": 13,
+          "missing_predictions": 4,
+          "coverage_rate": 0.764706,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "WSH",
+              "prediction_count": 1,
+              "prediction_rate": 0.076923
+            },
+            {
+              "team_id": "SEA",
+              "prediction_count": 12,
+              "prediction_rate": 0.923077
+            }
+          ],
+          "consensus_strength": 0.923077,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "WSH ganó 33–31."
+        },
+        {
+          "match_id": "REG043",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SF",
+              "prediction_count": 15,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SF",
+              "prediction_count": 15,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "ARI",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "SF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SF ganó 36–30."
+        },
+        {
+          "match_id": "REG044",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 13,
+              "prediction_rate": 0.866667
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TB",
+              "prediction_count": 2,
+              "prediction_rate": 0.133333
+            },
+            {
+              "team_id": "MIN",
+              "prediction_count": 13,
+              "prediction_rate": 0.866667
+            }
+          ],
+          "consensus_strength": 0.866667,
+          "has_majority": true,
+          "consensus_team_id": "MIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "MIN ganó 23–16."
+        },
+        {
+          "match_id": "REG045",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NO",
+              "prediction_count": 10,
+              "prediction_rate": 0.666667
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NO",
+              "prediction_count": 10,
+              "prediction_rate": 0.666667
+            },
+            {
+              "team_id": "LV",
+              "prediction_count": 5,
+              "prediction_rate": 0.333333
+            }
+          ],
+          "consensus_strength": 0.666667,
+          "has_majority": true,
+          "consensus_team_id": "NO",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "LV ganó 35–27."
+        },
+        {
+          "match_id": "REG046",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 11,
+              "prediction_rate": 0.733333
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 4,
+              "prediction_rate": 0.266667
+            },
+            {
+              "team_id": "BAL",
+              "prediction_count": 11,
+              "prediction_rate": 0.733333
+            }
+          ],
+          "consensus_strength": 0.733333,
+          "has_majority": true,
+          "consensus_team_id": "BAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BAL ganó 34–31."
+        },
+        {
+          "match_id": "REG047",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 9,
+              "prediction_rate": 0.6
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 6,
+              "prediction_rate": 0.4
+            },
+            {
+              "team_id": "LAR",
+              "prediction_count": 9,
+              "prediction_rate": 0.6
+            }
+          ],
+          "consensus_strength": 0.6,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "DEN ganó 30–26."
+        },
+        {
+          "match_id": "REG048",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 1,
+              "prediction_rate": 0.0625
+            },
+            {
+              "team_id": "PHI",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "consensus_strength": 0.9375,
+          "has_majority": true,
+          "consensus_team_id": "PHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CHI ganó 27–7."
+        }
+      ]
+    },
+    "REG-4": {
+      "cursor": "REG064",
+      "matches": [
+        {
+          "match_id": "REG049",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CLE",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            },
+            {
+              "team_id": "PIT",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "PIT",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CLE ganó 27–24."
+        },
+        {
+          "match_id": "REG050",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "IND",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "WSH",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            },
+            {
+              "team_id": "IND",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "IND",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "IND ganó 30–13."
+        },
+        {
+          "match_id": "REG051",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "ARI",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            },
+            {
+              "team_id": "ARI",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "ARI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYG ganó 36–24."
+        },
+        {
+          "match_id": "REG052",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            },
+            {
+              "team_id": "DAL",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "DAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DAL ganó 34–30."
+        },
+        {
+          "match_id": "REG053",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "GB",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TB",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            },
+            {
+              "team_id": "GB",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "GB",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "GB ganó 17–14."
+        },
+        {
+          "match_id": "REG054",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            },
+            {
+              "team_id": "JAX",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "CIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "JAX ganó 22–17."
+        },
+        {
+          "match_id": "REG055",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            },
+            {
+              "team_id": "LAR",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "LAR ganó 24–20."
+        },
+        {
+          "match_id": "REG056",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "NE",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "BUF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NE ganó 29–26."
+        },
+        {
+          "match_id": "REG057",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "NYJ",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CHI ganó 23–12."
+        },
+        {
+          "match_id": "REG058",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "TEN",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "BAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BAL ganó 24–18."
+        },
+        {
+          "match_id": "REG059",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "MIA",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "MIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "MIN ganó 15–10."
+        },
+        {
+          "match_id": "REG060",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SF",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SF",
+              "prediction_count": 15,
+              "prediction_rate": 0.882353
+            },
+            {
+              "team_id": "DEN",
+              "prediction_count": 2,
+              "prediction_rate": 0.117647
+            }
+          ],
+          "consensus_strength": 0.882353,
+          "has_majority": true,
+          "consensus_team_id": "SF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SF ganó 24–14."
+        },
+        {
+          "match_id": "REG061",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LV",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            },
+            {
+              "team_id": "KC",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "KC ganó 30–27."
+        },
+        {
+          "match_id": "REG062",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "LAC",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SEA ganó 30–23."
+        },
+        {
+          "match_id": "REG063",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DET",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "DET",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "DET",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CAR ganó 32–26."
+        },
+        {
+          "match_id": "REG064",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NO",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NO",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            },
+            {
+              "team_id": "ATL",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "NO",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "ATL ganó 45–24."
+        }
+      ]
+    },
+    "REG-5": {
+      "cursor": "REG079",
+      "matches": [
+        {
+          "match_id": "REG065",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "TB",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "DAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "TB ganó 24–16."
+        },
+        {
+          "match_id": "REG066",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "PHI",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "JAX",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "JAX ganó 19–17."
+        },
+        {
+          "match_id": "REG067",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "MIA",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            },
+            {
+              "team_id": "CIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "CIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CIN ganó 31–24."
+        },
+        {
+          "match_id": "REG068",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CLE",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYJ",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            },
+            {
+              "team_id": "CLE",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "CLE",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYJ ganó 17–12."
+        },
+        {
+          "match_id": "REG069",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            },
+            {
+              "team_id": "HOU",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "HOU",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "HOU ganó 26–3."
+        },
+        {
+          "match_id": "REG070",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            },
+            {
+              "team_id": "IND",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "PIT",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PIT ganó 34–22."
+        },
+        {
+          "match_id": "REG071",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NE",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NE",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            },
+            {
+              "team_id": "LV",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "NE",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "NE ganó 45–17."
+        },
+        {
+          "match_id": "REG072",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NO",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            },
+            {
+              "team_id": "MIN",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "MIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "MIN ganó 23–13."
+        },
+        {
+          "match_id": "REG073",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "WSH",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            },
+            {
+              "team_id": "NYG",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "NYG",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "El partido terminó empatado."
+        },
+        {
+          "match_id": "REG074",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAC",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            },
+            {
+              "team_id": "DEN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "DEN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DEN ganó 23–17."
+        },
+        {
+          "match_id": "REG075",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "GB",
+              "prediction_count": 5,
+              "prediction_rate": 0.294118
+            },
+            {
+              "team_id": "CHI",
+              "prediction_count": 12,
+              "prediction_rate": 0.705882
+            }
+          ],
+          "consensus_strength": 0.705882,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "GB ganó 31–7."
+        },
+        {
+          "match_id": "REG076",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DET",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ARI",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            },
+            {
+              "team_id": "DET",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "DET",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DET ganó 45–21."
+        },
+        {
+          "match_id": "REG077",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 9,
+              "prediction_rate": 0.529412
+            },
+            {
+              "team_id": "SF",
+              "prediction_count": 8,
+              "prediction_rate": 0.470588
+            }
+          ],
+          "consensus_strength": 0.529412,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "SF ganó 32–29."
+        },
+        {
+          "match_id": "REG078",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "ATL",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ATL",
+              "prediction_count": 10,
+              "prediction_rate": 0.588235
+            },
+            {
+              "team_id": "BAL",
+              "prediction_count": 7,
+              "prediction_rate": 0.411765
+            }
+          ],
+          "consensus_strength": 0.588235,
+          "has_majority": true,
+          "consensus_team_id": "ATL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "BAL ganó 30–23."
+        },
+        {
+          "match_id": "REG079",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            },
+            {
+              "team_id": "BUF",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "BUF ganó 37–34."
+        }
+      ]
+    },
+    "REG-6": {
+      "cursor": "REG093",
+      "matches": [
+        {
+          "match_id": "REG080",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 14,
+              "prediction_rate": 0.875
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 2,
+              "prediction_rate": 0.125
+            },
+            {
+              "team_id": "SEA",
+              "prediction_count": 14,
+              "prediction_rate": 0.875
+            }
+          ],
+          "consensus_strength": 0.875,
+          "has_majority": true,
+          "consensus_team_id": "SEA",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "DEN ganó 17–14."
+        },
+        {
+          "match_id": "REG081",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "JAX",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            },
+            {
+              "team_id": "HOU",
+              "prediction_count": 1,
+              "prediction_rate": 0.0625
+            }
+          ],
+          "consensus_strength": 0.9375,
+          "has_majority": true,
+          "consensus_team_id": "JAX",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "HOU ganó 34–31."
+        },
+        {
+          "match_id": "REG082",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CLE",
+              "prediction_count": 1,
+              "prediction_rate": 0.0625
+            },
+            {
+              "team_id": "BAL",
+              "prediction_count": 15,
+              "prediction_rate": 0.9375
+            }
+          ],
+          "consensus_strength": 0.9375,
+          "has_majority": true,
+          "consensus_team_id": "BAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "CLE ganó 13–10."
+        },
+        {
+          "match_id": "REG083",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 11,
+              "prediction_rate": 0.6875
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 5,
+              "prediction_rate": 0.3125
+            },
+            {
+              "team_id": "CAR",
+              "prediction_count": 11,
+              "prediction_rate": 0.6875
+            }
+          ],
+          "consensus_strength": 0.6875,
+          "has_majority": true,
+          "consensus_team_id": "CAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CAR ganó 25–14."
+        },
+        {
+          "match_id": "REG084",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 9,
+              "prediction_rate": 0.5625
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ATL",
+              "prediction_count": 7,
+              "prediction_rate": 0.4375
+            },
+            {
+              "team_id": "CHI",
+              "prediction_count": 9,
+              "prediction_rate": 0.5625
+            }
+          ],
+          "consensus_strength": 0.5625,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CHI ganó 31–23."
+        },
+        {
+          "match_id": "REG085",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 10,
+              "prediction_rate": 0.625
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYG",
+              "prediction_count": 10,
+              "prediction_rate": 0.625
+            },
+            {
+              "team_id": "NO",
+              "prediction_count": 6,
+              "prediction_rate": 0.375
+            }
+          ],
+          "consensus_strength": 0.625,
+          "has_majority": true,
+          "consensus_team_id": "NYG",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NO ganó 34–27."
+        },
+        {
+          "match_id": "REG086",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NE",
+              "prediction_count": 16,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NE",
+              "prediction_count": 16,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "NYJ",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "NE",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "NE ganó 26–19."
+        },
+        {
+          "match_id": "REG087",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 11,
+              "prediction_rate": 0.6875
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TB",
+              "prediction_count": 5,
+              "prediction_rate": 0.3125
+            },
+            {
+              "team_id": "PIT",
+              "prediction_count": 11,
+              "prediction_rate": 0.6875
+            }
+          ],
+          "consensus_strength": 0.6875,
+          "has_majority": true,
+          "consensus_team_id": "PIT",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PIT ganó 26–19."
+        },
+        {
+          "match_id": "REG088",
+          "registered_players": 17,
+          "valid_predictions": 16,
+          "missing_predictions": 1,
+          "coverage_rate": 0.941176,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "IND",
+              "prediction_count": 16,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "IND",
+              "prediction_count": 16,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "TEN",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "IND",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "TEN ganó 26–20."
+        },
+        {
+          "match_id": "REG089",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "ARI",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "ARI ganó 18–16."
+        },
+        {
+          "match_id": "REG090",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LV",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            },
+            {
+              "team_id": "BUF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "BUF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "BUF ganó 33–30."
+        },
+        {
+          "match_id": "REG091",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "KC",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "LAC",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "KC ganó 22–6."
+        },
+        {
+          "match_id": "REG092",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "GB",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "GB",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            },
+            {
+              "team_id": "DAL",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "GB",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "GB ganó 23–13."
+        },
+        {
+          "match_id": "REG093",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SF",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SF",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "WSH",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "SF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "SF ganó 23–17."
+        }
+      ]
+    },
+    "REG-7": {
+      "cursor": "REG107",
+      "matches": [
+        {
+          "match_id": "REG094",
+          "registered_players": 17,
+          "valid_predictions": 15,
+          "missing_predictions": 2,
+          "coverage_rate": 0.882353,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 12,
+              "prediction_rate": 0.8
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CHI",
+              "prediction_count": 12,
+              "prediction_rate": 0.8
+            },
+            {
+              "team_id": "NE",
+              "prediction_count": 3,
+              "prediction_rate": 0.2
+            }
+          ],
+          "consensus_strength": 0.8,
+          "has_majority": true,
+          "consensus_team_id": "CHI",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CHI ganó 30–24."
+        },
+        {
+          "match_id": "REG095",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "PIT",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NO",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "PIT",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "PIT",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "PIT ganó 16–10."
+        },
+        {
+          "match_id": "REG096",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CIN",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "BAL",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            },
+            {
+              "team_id": "CIN",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "CIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CIN ganó 35–13."
+        },
+        {
+          "match_id": "REG097",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CLE",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "TEN",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "CLE",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "CLE",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "CLE ganó 27–24."
+        },
+        {
+          "match_id": "REG098",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "MIN",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "IND",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "MIN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "MIN ganó 16–10."
+        },
+        {
+          "match_id": "REG099",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "NYJ",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "NYJ",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "MIA",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "NYJ",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "MIA ganó 28–25."
+        },
+        {
+          "match_id": "REG100",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "HOU",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            },
+            {
+              "team_id": "NYG",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "HOU",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "NYG ganó 27–21."
+        },
+        {
+          "match_id": "REG101",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "SF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ATL",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            },
+            {
+              "team_id": "SF",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "SF",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "ATL ganó 29–20."
+        },
+        {
+          "match_id": "REG102",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "CAR",
+              "prediction_count": 17,
+              "prediction_rate": 1
+            },
+            {
+              "team_id": "TB",
+              "prediction_count": 0,
+              "prediction_rate": 0
+            }
+          ],
+          "consensus_strength": 1,
+          "has_majority": true,
+          "consensus_team_id": "CAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "TB ganó 43–13."
+        },
+        {
+          "match_id": "REG103",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DEN",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "ARI",
+              "prediction_count": 1,
+              "prediction_rate": 0.058824
+            },
+            {
+              "team_id": "DEN",
+              "prediction_count": 16,
+              "prediction_rate": 0.941176
+            }
+          ],
+          "consensus_strength": 0.941176,
+          "has_majority": true,
+          "consensus_team_id": "DEN",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DEN ganó 30–16."
+        },
+        {
+          "match_id": "REG104",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DET",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "DET",
+              "prediction_count": 14,
+              "prediction_rate": 0.823529
+            },
+            {
+              "team_id": "GB",
+              "prediction_count": 3,
+              "prediction_rate": 0.176471
+            }
+          ],
+          "consensus_strength": 0.823529,
+          "has_majority": true,
+          "consensus_team_id": "DET",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DET ganó 20–17."
+        },
+        {
+          "match_id": "REG105",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "LAR",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "LV",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "LAR",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "LAR",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "LAR ganó 35–21."
+        },
+        {
+          "match_id": "REG106",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "KC",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "SEA",
+              "prediction_count": 6,
+              "prediction_rate": 0.352941
+            },
+            {
+              "team_id": "KC",
+              "prediction_count": 11,
+              "prediction_rate": 0.647059
+            }
+          ],
+          "consensus_strength": 0.647059,
+          "has_majority": true,
+          "consensus_team_id": "KC",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": false,
+          "result_summary": "SEA ganó 20–3."
+        },
+        {
+          "match_id": "REG107",
+          "registered_players": 17,
+          "valid_predictions": 17,
+          "missing_predictions": 0,
+          "coverage_rate": 1,
+          "minimum_sample": 9,
+          "sample_status": "sufficient",
+          "consensus_status": "dominant",
+          "consensus_picks": [
+            {
+              "team_id": "DAL",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "distribution": [
+            {
+              "team_id": "PHI",
+              "prediction_count": 4,
+              "prediction_rate": 0.235294
+            },
+            {
+              "team_id": "DAL",
+              "prediction_count": 13,
+              "prediction_rate": 0.764706
+            }
+          ],
+          "consensus_strength": 0.764706,
+          "has_majority": true,
+          "consensus_team_id": "DAL",
+          "insight_code": "COMMUNITY_FAVORS_TEAM",
+          "evaluation_status": "evaluated",
+          "correct": true,
+          "result_summary": "DAL ganó 38–21."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "competition_id": "NFL2026",
+  "current_period_id": "REG-7",
+  "default_checkpoint": "REG-7",
+  "calendar": [
+    {
+      "period_id": "REG-1",
+      "period_ordinal": 1,
+      "available": true
+    },
+    {
+      "period_id": "REG-2",
+      "period_ordinal": 2,
+      "available": true
+    },
+    {
+      "period_id": "REG-3",
+      "period_ordinal": 3,
+      "available": true
+    },
+    {
+      "period_id": "REG-4",
+      "period_ordinal": 4,
+      "available": true
+    },
+    {
+      "period_id": "REG-5",
+      "period_ordinal": 5,
+      "available": true
+    },
+    {
+      "period_id": "REG-6",
+      "period_ordinal": 6,
+      "available": true
+    },
+    {
+      "period_id": "REG-7",
+      "period_ordinal": 7,
+      "available": true
+    },
+    {
+      "period_id": "REG-8",
+      "period_ordinal": 8,
+      "available": false
+    },
+    {
+      "period_id": "REG-9",
+      "period_ordinal": 9,
+      "available": false
+    },
+    {
+      "period_id": "REG-10",
+      "period_ordinal": 10,
+      "available": false
+    },
+    {
+      "period_id": "REG-11",
+      "period_ordinal": 11,
+      "available": false
+    },
+    {
+      "period_id": "REG-12",
+      "period_ordinal": 12,
+      "available": false
+    },
+    {
+      "period_id": "REG-13",
+      "period_ordinal": 13,
+      "available": false
+    },
+    {
+      "period_id": "REG-14",
+      "period_ordinal": 14,
+      "available": false
+    },
+    {
+      "period_id": "REG-15",
+      "period_ordinal": 15,
+      "available": false
+    },
+    {
+      "period_id": "REG-16",
+      "period_ordinal": 16,
+      "available": false
+    },
+    {
+      "period_id": "REG-17",
+      "period_ordinal": 17,
+      "available": false
+    },
+    {
+      "period_id": "REG-18",
+      "period_ordinal": 18,
+      "available": false
+    },
+    {
+      "period_id": "WC",
+      "period_ordinal": 19,
+      "available": false
+    },
+    {
+      "period_id": "DIV",
+      "period_ordinal": 20,
+      "available": false
+    },
+    {
+      "period_id": "CC",
+      "period_ordinal": 21,
+      "available": false
+    },
+    {
+      "period_id": "SB",
+      "period_ordinal": 22,
+      "available": false
+    }
+  ],
+  "checkpoints": [
+    {
+      "period_id": "REG-1",
+      "period_ordinal": 1,
+      "closing_match_id": "REG016",
+      "closing_sort_order": 16,
+      "hash": "64dcb4ef55b123433b3de9906080fb1214de24c179c47b65f0690e2941b6ef3d"
+    },
+    {
+      "period_id": "REG-2",
+      "period_ordinal": 2,
+      "closing_match_id": "REG032",
+      "closing_sort_order": 32,
+      "hash": "98c6212124b3aa6d8899ae42d6e6d6e6ef1401aa2281c62be8b41f9fcc1d5884"
+    },
+    {
+      "period_id": "REG-3",
+      "period_ordinal": 3,
+      "closing_match_id": "REG048",
+      "closing_sort_order": 48,
+      "hash": "3754507e1f2f3bba522fd99b4b18d0ebf70c9bd2be388ce8aea21ffce74a2010"
+    },
+    {
+      "period_id": "REG-4",
+      "period_ordinal": 4,
+      "closing_match_id": "REG064",
+      "closing_sort_order": 64,
+      "hash": "9ff859f7281734eac6459ff2fca7aa72d4c8604ed4dc192d8152083aba22dd6d"
+    },
+    {
+      "period_id": "REG-5",
+      "period_ordinal": 5,
+      "closing_match_id": "REG079",
+      "closing_sort_order": 79,
+      "hash": "a9016130a52f24a360304b170a88ecb527c865a2c4eb19b810b73dfa83b9da1e"
+    },
+    {
+      "period_id": "REG-6",
+      "period_ordinal": 6,
+      "closing_match_id": "REG093",
+      "closing_sort_order": 93,
+      "hash": "e5c0772b913a8f1606bf52dd893db2e3dc532abda37d5193c65ea445a843ff91"
+    },
+    {
+      "period_id": "REG-7",
+      "period_ordinal": 7,
+      "closing_match_id": "REG107",
+      "closing_sort_order": 107,
+      "hash": "5b7dfd89bafb1e7191d530a58d7951f8e7a1e32190364ee1f83f71b41242317a"
+    }
+  ],
+  "rolling_period": {
+    "period_id": "REG-7",
+    "season_type": "Regular Season",
+    "week": 7
+  },
+  "freeze_cursor": "2026-10-27T00:05:01.000Z",
+  "results_cursor": "REG107"
+}

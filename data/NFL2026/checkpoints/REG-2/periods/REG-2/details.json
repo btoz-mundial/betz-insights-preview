@@ -1,0 +1,3527 @@
+{
+  "contract_type": "betz_read_period_detail",
+  "contract_version": "1.2",
+  "competition_id": "NFL2026",
+  "cursor": "REG032",
+  "period": {
+    "period_id": "REG-2",
+    "season_type": "Regular Season",
+    "week": 2,
+    "matches": [
+      {
+        "match_id": "REG017",
+        "home_score": 41,
+        "away_score": 31,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 14,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 13,
+            "away_score": 10
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 7
+          },
+          {
+            "period": 4,
+            "home_score": 7,
+            "away_score": 14
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "DET",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "BUF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Josh Allen opens the Bills' new stadium with a 5-TD outing in a 41-31 win over the Lions",
+        "correction": null
+      },
+      {
+        "match_id": "REG018",
+        "home_score": 3,
+        "away_score": 34,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 10
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 10
+          },
+          {
+            "period": 3,
+            "home_score": 0,
+            "away_score": 14
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 0
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "ATL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "ATL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "ATL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "ATL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "CAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Young throws 3 TD passes, including 2 to Waller, as Panthers dominate short-handed Falcons 34-3",
+        "correction": null
+      },
+      {
+        "match_id": "REG019",
+        "home_score": 17,
+        "away_score": 24,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 6
+          },
+          {
+            "period": 3,
+            "home_score": 3,
+            "away_score": 3
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 15
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 20,
+            "predicted_away_score": 10,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "BAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Tyler Shough and the Saints produce two big drives at the end to topple the Ravens 24-17",
+        "correction": null
+      },
+      {
+        "match_id": "REG020",
+        "home_score": 3,
+        "away_score": 9,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 3,
+            "away_score": 3
+          },
+          {
+            "period": 2,
+            "home_score": 0,
+            "away_score": 3
+          },
+          {
+            "period": 3,
+            "home_score": 0,
+            "away_score": 0
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 3
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "MIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "MIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "CHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Rodgers and Turner help the Vikings shut down the Bears for a 9-3 win in the rain",
+        "correction": null
+      },
+      {
+        "match_id": "REG021",
+        "home_score": 6,
+        "away_score": 20,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 7
+          },
+          {
+            "period": 3,
+            "home_score": 3,
+            "away_score": 10
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 3
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "CIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "CIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "CIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "CIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "HOU",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "CIN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Ja'Marr Chase scores 2 TDs on passes from Joe Burrow to lead the Bengals past the Texans 20-6",
+        "correction": null
+      },
+      {
+        "match_id": "REG022",
+        "home_score": 20,
+        "away_score": 3,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 3
+          },
+          {
+            "period": 3,
+            "home_score": 3,
+            "away_score": 0
+          },
+          {
+            "period": 4,
+            "home_score": 7,
+            "away_score": 0
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "PIT",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "PIT",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "PIT",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "PIT",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "NE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "TreVeyon Henderson runs for a TD and the Patriots pummel Aaron Rodgers in a 20-3 win over Steelers",
+        "correction": null
+      },
+      {
+        "match_id": "REG023",
+        "home_score": 17,
+        "away_score": 20,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 7
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 4,
+            "home_score": 3,
+            "away_score": 10
+          },
+          {
+            "period": 5,
+            "home_score": 0,
+            "away_score": 3
+          }
+        ],
+        "overtime": true,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "NYJ",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "NYJ",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "GB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "NYJ",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Trey Smack’s OT kick lifts the Packers past the Jets, ending a 6-game skid",
+        "correction": null
+      },
+      {
+        "match_id": "REG024",
+        "home_score": 19,
+        "away_score": 23,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 6,
+            "away_score": 3
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 3
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 10
+          },
+          {
+            "period": 4,
+            "home_score": 3,
+            "away_score": 7
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "CLE",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 24,
+            "predicted_away_score": 16,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "TB",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Deshaun Watson outplays Baker Mayfield, leading the Browns to a 23-19 win over the Buccaneers",
+        "correction": null
+      },
+      {
+        "match_id": "REG025",
+        "home_score": 20,
+        "away_score": 24,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 14
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 3
+          },
+          {
+            "period": 4,
+            "home_score": 3,
+            "away_score": 7
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 13,
+            "predicted_away_score": 24,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 10,
+            "predicted_away_score": 27,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 10,
+            "predicted_away_score": 25,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "PHI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Jalen Hurts hits Darius Cooper for TD with 9 seconds left to lift the Eagles past the Titans 24-20",
+        "correction": null
+      },
+      {
+        "match_id": "REG026",
+        "home_score": 20,
+        "away_score": 13,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 3,
+            "away_score": 10
+          },
+          {
+            "period": 3,
+            "home_score": 3,
+            "away_score": 3
+          },
+          {
+            "period": 4,
+            "home_score": 14,
+            "away_score": 0
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "JAX",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "DEN",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Jaylen Waddle’s quiet Denver debut flips into a 138-yard day in a Broncos' 20-13 comeback over Jags",
+        "correction": null
+      },
+      {
+        "match_id": "REG027",
+        "home_score": 14,
+        "away_score": 26,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 10
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 7
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 9
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "LV",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "LV",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "LV",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "LAC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Kirk Cousins connects with Cody White for 2 TDs and Raiders beat Chargers 26-14",
+        "correction": null
+      },
+      {
+        "match_id": "REG028",
+        "home_score": 7,
+        "away_score": 31,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 0,
+            "away_score": 7
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 3,
+            "home_score": 0,
+            "away_score": 10
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 14
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "ARI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "ARI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "ARI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "SEA",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "ARI",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Drew Lock connects for 3 TDs with Jaxon Smith-Njigba; Seahawks roll past Cardinals 31-7",
+        "correction": null
+      },
+      {
+        "match_id": "REG029",
+        "home_score": 37,
+        "away_score": 20,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 10,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 10
+          },
+          {
+            "period": 3,
+            "home_score": 10,
+            "away_score": 3
+          },
+          {
+            "period": 4,
+            "home_score": 10,
+            "away_score": 7
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "WSH",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 30,
+            "predicted_away_score": 27,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "WSH",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "WSH",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "DAL",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Prescott throws 4 TD passes as Cowboys beat Commanders, who again lose Daniels to dislocated elbow",
+        "correction": null
+      },
+      {
+        "match_id": "REG030",
+        "home_score": 35,
+        "away_score": 13,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 6
+          },
+          {
+            "period": 3,
+            "home_score": 21,
+            "away_score": 0
+          },
+          {
+            "period": 4,
+            "home_score": 0,
+            "away_score": 7
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 31,
+            "predicted_away_score": 14,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 31,
+            "predicted_away_score": 13,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 35,
+            "predicted_away_score": 14,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "SF",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 27,
+            "predicted_away_score": 10,
+            "points_awarded": 2,
+            "correct": true
+          }
+        ],
+        "headline": "49ers score TDs on 1st 5 drives to beat the Dolphins 35-13",
+        "correction": null
+      },
+      {
+        "match_id": "REG031",
+        "home_score": 33,
+        "away_score": 30,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 10,
+            "away_score": 7
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 13
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 4,
+            "home_score": 3,
+            "away_score": 7
+          },
+          {
+            "period": 5,
+            "home_score": 6,
+            "away_score": 3
+          }
+        ],
+        "overtime": true,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 30,
+            "predicted_away_score": 20,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "KC",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          }
+        ],
+        "headline": "Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT",
+        "correction": null
+      },
+      {
+        "match_id": "REG032",
+        "home_score": 28,
+        "away_score": 6,
+        "period_scores": [
+          {
+            "period": 1,
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "period": 2,
+            "home_score": 7,
+            "away_score": 3
+          },
+          {
+            "period": 3,
+            "home_score": 7,
+            "away_score": 3
+          },
+          {
+            "period": 4,
+            "home_score": 7,
+            "away_score": 0
+          }
+        ],
+        "overtime": false,
+        "picks": [
+          {
+            "user_id": "ADOLFO_LOZANO",
+            "display_name": "Adolfo Lozano",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "BTO_Z",
+            "display_name": "Bto Z",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "CHIEFS_FAN",
+            "display_name": "Chief's Fan",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DAVIDMAGANA",
+            "display_name": "David Magaña",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "DIEGOMAGANA",
+            "display_name": "Diego Magaña",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "EZC",
+            "display_name": "EZC",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GABOBC",
+            "display_name": "GaboBC",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GOLDEN_EAGLE",
+            "display_name": "Golden Eagle",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "GSG",
+            "display_name": "GSG",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "HZE",
+            "display_name": "HZE",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": true,
+            "predicted_home_score": 31,
+            "predicted_away_score": 24,
+            "points_awarded": 2,
+            "correct": true
+          },
+          {
+            "user_id": "JMTZCELIZ",
+            "display_name": "JMtzCelis",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "LJMV",
+            "display_name": "LJMV",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "MARIOVILLARREAL",
+            "display_name": "Mario Villarreal",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "NSA",
+            "display_name": "NSA",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PACOT",
+            "display_name": "PacoT",
+            "selected_team_id": "LAR",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 1,
+            "correct": true
+          },
+          {
+            "user_id": "PEPE_SANCHEZ",
+            "display_name": "Pepe sanchez",
+            "selected_team_id": "NYG",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          },
+          {
+            "user_id": "YEU",
+            "display_name": "Yeu",
+            "selected_team_id": "NYG",
+            "answered": true,
+            "lock": false,
+            "predicted_home_score": null,
+            "predicted_away_score": null,
+            "points_awarded": 0,
+            "correct": false
+          }
+        ],
+        "headline": "Davante Adams, Matthew Stafford lead Rams past Giants 28-6 after Jaxson Dart's injury",
+        "correction": null
+      }
+    ]
+  }
+}

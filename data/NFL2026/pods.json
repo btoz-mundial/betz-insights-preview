@@ -1,0 +1,1375 @@
+{
+  "contract_type": "betz_public_pods",
+  "contract_version": "1.0",
+  "competition_id": "NFL2026",
+  "periods": {
+    "REG-1": {
+      "assignment_hash": "f2cf49337dbd603dde04f5927710323f0db5e64c7237e7d4778bccd4f90f7af5",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 10.333333333333334,
+          "won": false,
+          "participating_member_count": 6,
+          "members": [
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "score": 7,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "score": 13,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 10.5,
+          "won": false,
+          "participating_member_count": 6,
+          "members": [
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "score": 6,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 11.6,
+          "won": true,
+          "participating_member_count": 5,
+          "members": [
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "score": 13,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 5
+        }
+      ],
+      "non_participant_average_policy": "include_as_zero"
+    },
+    "REG-2": {
+      "assignment_hash": "306c088a1b5f4db3e8dca7434025d872402dad7b9dd1f84edf745070ff21cfd1",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 11.166666666666666,
+          "won": true,
+          "participating_member_count": 6,
+          "members": [
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "score": 9,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 10.166666666666666,
+          "won": false,
+          "participating_member_count": 6,
+          "members": [
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "score": 9,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "score": 8,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 10.4,
+          "won": false,
+          "participating_member_count": 5,
+          "members": [
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "score": 9,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "score": 12,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 5
+        }
+      ],
+      "non_participant_average_policy": "include_as_zero"
+    },
+    "REG-3": {
+      "assignment_hash": "144ededaf5e2a7fd17905a4acdeac25b9792795f6b0082b2340e1651149e2773",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 6.5,
+          "won": false,
+          "participating_member_count": 5,
+          "members": [
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": false,
+              "score": null,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "score": 9,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "score": 2,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "score": 8,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 7,
+          "won": false,
+          "participating_member_count": 6,
+          "members": [
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "score": 8,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "score": 9,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "score": 7,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "score": 0,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "score": 7,
+              "modifier_points": 0,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 6
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 8.2,
+          "won": true,
+          "participating_member_count": 5,
+          "members": [
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "score": 6,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "score": 6,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "score": 8,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "score": 11,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "score": 10,
+              "modifier_points": 1,
+              "included_in_pod_average": true
+            }
+          ],
+          "average_member_count": 5
+        }
+      ],
+      "non_participant_average_policy": "include_as_zero"
+    },
+    "REG-4": {
+      "assignment_hash": "9b8437ebfc24fafa28856d8663dbd237c253cc9f7131aa3c4d477a4d56adb2b6",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "non_participant_average_policy": "include_as_zero",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 11.833333333333334,
+          "won": true,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 12,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 13,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 13,
+              "modifier_points": 1
+            }
+          ]
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 10.5,
+          "won": false,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 14,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            }
+          ]
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 11,
+          "won": false,
+          "participating_member_count": 5,
+          "average_member_count": 5,
+          "members": [
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 12,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 14,
+              "modifier_points": 0
+            }
+          ]
+        }
+      ]
+    },
+    "REG-5": {
+      "assignment_hash": "3b8682a207aabf2f44b439bf3c08d93df94294796548d15d6664891396115e0f",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "non_participant_average_policy": "include_as_zero",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 10.166666666666666,
+          "won": true,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 13,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            }
+          ]
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 8.833333333333334,
+          "won": false,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            }
+          ]
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 8,
+          "won": false,
+          "participating_member_count": 5,
+          "average_member_count": 5,
+          "members": [
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 6,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            }
+          ]
+        }
+      ]
+    },
+    "REG-6": {
+      "assignment_hash": "da7e8a03894764977555f2e007f1cb2ae3f19d0264c978cc897585c76840e8df",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "non_participant_average_policy": "include_as_zero",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 7.166666666666667,
+          "won": false,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 6,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 5,
+              "modifier_points": 0
+            }
+          ]
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 8.333333333333334,
+          "won": true,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 1
+            }
+          ]
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 7.8,
+          "won": false,
+          "participating_member_count": 5,
+          "average_member_count": 5,
+          "members": [
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 5,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 11,
+              "modifier_points": 0
+            }
+          ]
+        }
+      ]
+    },
+    "REG-7": {
+      "assignment_hash": "5078d071d82f108c776f7f6bf87d0d6478ec9d7f971d25738200078c16c83b56",
+      "assignment_status": "assigned",
+      "resolution_status": "resolved",
+      "non_participant_average_policy": "include_as_zero",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": 7,
+          "won": false,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 6,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 5,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            }
+          ]
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": 8.166666666666666,
+          "won": false,
+          "participating_member_count": 6,
+          "average_member_count": 6,
+          "members": [
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 7,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 0
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 0
+            }
+          ]
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": 9,
+          "won": true,
+          "participating_member_count": 5,
+          "average_member_count": 5,
+          "members": [
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 10,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 9,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 1
+            },
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": true,
+              "included_in_pod_average": true,
+              "score": 8,
+              "modifier_points": 1
+            }
+          ]
+        }
+      ]
+    },
+    "REG-8": {
+      "assignment_hash": "d2d9e0eef7598c1a9c446270b500c565df0bb6c095ca758a859b33fdba45d2b8",
+      "assignment_status": "assigned",
+      "resolution_status": "pending",
+      "non_participant_average_policy": "include_as_zero",
+      "pods": [
+        {
+          "pod_id": "POD01",
+          "pod_score": null,
+          "won": null,
+          "participating_member_count": null,
+          "average_member_count": null,
+          "members": [
+            {
+              "user_id": "JMTZCELIZ",
+              "display_name": "JMtzCelis",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "ADOLFO_LOZANO",
+              "display_name": "Adolfo Lozano",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "DIEGOMAGANA",
+              "display_name": "Diego Magaña",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "GOLDEN_EAGLE",
+              "display_name": "Golden Eagle",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "YEU",
+              "display_name": "Yeu",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "DAVIDMAGANA",
+              "display_name": "David Magaña",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            }
+          ]
+        },
+        {
+          "pod_id": "POD02",
+          "pod_score": null,
+          "won": null,
+          "participating_member_count": null,
+          "average_member_count": null,
+          "members": [
+            {
+              "user_id": "GABOBC",
+              "display_name": "GaboBC",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "PEPE_SANCHEZ",
+              "display_name": "Pepe sanchez",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "LJMV",
+              "display_name": "LJMV",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "EZC",
+              "display_name": "EZC",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "GSG",
+              "display_name": "GSG",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "BTO_Z",
+              "display_name": "Bto Z",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            }
+          ]
+        },
+        {
+          "pod_id": "POD03",
+          "pod_score": null,
+          "won": null,
+          "participating_member_count": null,
+          "average_member_count": null,
+          "members": [
+            {
+              "user_id": "HZE",
+              "display_name": "HZE",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "CHIEFS_FAN",
+              "display_name": "Chief's Fan",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "PACOT",
+              "display_name": "PacoT",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "MARIOVILLARREAL",
+              "display_name": "Mario Villarreal",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            },
+            {
+              "user_id": "NSA",
+              "display_name": "NSA",
+              "participated": null,
+              "included_in_pod_average": null,
+              "score": null,
+              "modifier_points": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

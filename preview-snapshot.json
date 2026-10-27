@@ -1,0 +1,577 @@
+{
+  "contract_type": "betz_public_snapshot_preview",
+  "contract_version": "1.0",
+  "environment": "PREVIEW",
+  "read_only": true,
+  "public_repository": "btoz-mundial/betz-insights-preview",
+  "source_repository": "btoz-mundial/SideHustle",
+  "source_branch": "dev/insights-preview",
+  "source_commit": "e9926da3ba4cfec9c431acc9d00adbfe70e4738c",
+  "public_baseline_repository": "betz-app/betz-app.github.io",
+  "public_baseline_commit": "3fedd258ab900c611981a4c2a4f6eff4f7b0bb51",
+  "captured_at": "2026-10-27T17:19:12.631Z",
+  "current_period_id": "REG-7",
+  "results_cursor": "REG107",
+  "data_files": [
+    {
+      "path": "data/NFL2026/catalog/matches.json",
+      "sha256": "6736ef80c33942b5c040ac6fa2f0508b6f22b93d64daef619271d269238fafcd"
+    },
+    {
+      "path": "data/NFL2026/catalog/teams.json",
+      "sha256": "81b342a50941b3371fd6be7752e519ae9921d39f67c6b5fa7ffac5c8f67c042c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints.json",
+      "sha256": "9b6f7ed94433ce73ca7a30ad6a1695850b81b6565fffb21adae3e5837222183e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "a66355ad1fcb4cfd38c6c263c335661317f7857ef31b2fd406585219599757fd"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "8269363c57a14db449d2d1411a246ddf6ceb7b0a15b5411822cf80470678d59d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "78507e95f315f771c88c052ea2db2c3e4b00977a17d9712f07384afc206279da"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "c97250651f02f4530f39ebf01db20660611d5620967a8f8af83300a30db4d5dc"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "a2009b54987b4cfc51af16e8cdea916c14ad611ee8a9cfeeefa35a3b8569d31d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "02720749e1d22895ccf5aba6b576932ced6f255e662a5a22129e4316d680aebc"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "5e4bc700224ec4a59f4ef7b7807e7570e8b6f19e4b472bc8ccaf4bcf48254bce"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "3acf3641506e7a561f72088ce86180e7a588b78943ca3694f019b0bd47570ef1"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "6ed3ab7efad2cfb38c598a177204f21e94f0542524d24935765d27ab71ee06dd"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "a4eecb7ae65137a8803b341456bc2067eaa282476ef143d38e5d2b1f759d2d3a"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/football_knowledge/knowledge.json",
+      "sha256": "684d42d24b813a0a8b465bc186cc556ee74573bc92363654507d63c22f29bffd"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/player_performance/consistency.json",
+      "sha256": "00f57c690fd67b13d315bdef671bcdb533bcfe4a7c6c6e50c53a5ffa8ed3a408"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/player_performance/efficiency.json",
+      "sha256": "fb56fd0f25bb7420fd2d20d76aa4c9e8076c8a579f43835fd5cf47ffd662efe6"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/player_performance/form.json",
+      "sha256": "f181641ff965b46269ded0e42188429efa51a4736e2e810a5c98c8306f7c6c94"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/analytics/player_performance/longest_streak.json",
+      "sha256": "ed822e884cb6a7cd5dd376c3a273b7a7b62d20f5f0f0ad3a5e15d2c36b5e1634"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/competition_context.json",
+      "sha256": "d83decba3f7ab0907e15253160b1e3d4e3e86f1050866e1ceea5765e158687eb"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/leaderboard.json",
+      "sha256": "818dc562a7a58c414ec1bd224abe54024e8c199db5c97d18f45279297a10b061"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/period_results.json",
+      "sha256": "57bfc9c1f6276dd47295df24d748584250ef827e5ba7f50c1027b5d8e6eb9663"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-1/periods/REG-1/details.json",
+      "sha256": "e16fa168b14f6938d4b5e441010bdf355e9cbd22d55a77d34d80fb1cbb3562c2"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "c6cc95f59ff97de257c4a0bf69a932c046dec378c6d4aca4e908f26622627180"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "d2391665d6a88484795f0b30eda904088fa54bccea19dae886126b2774302c3e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "fd5d75214713305b70237cdba88fcd08f2003a1b771e7560d91c709f03c15c95"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "b71796406661114c41df36953adeef98ce8ef9230ae80e339ff566c2ae75fa86"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "74fdc77c38ac076259375f35b8e232c3b02c80db56a5c938ae26e4ba797a183b"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "8e56052880ceecc454de34b0f88d13fac4ac995e8451da393ef92cf8b5edaeb4"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "43f3c46debd22a8b5e21c99cbcef922de73a09c75419a0512ac7b3a5651f8e9d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "5fdaf4f1fd326c486575ac3ccbcc63a95955c3044e4513ec6fb40abe7c0c5e20"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "6d8e74653d4b4f80ce4fe3952f81f92804199c47a8edb8d61e5617166ed3141c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "f94f2d3cf2a7d1ed87b52903228503d5e19015ce7bc727bf5e44197749da0a22"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/football_knowledge/knowledge.json",
+      "sha256": "65a8464fc47cb0e9bfaa35446699c040d7a93b9251675a4c6b3afa8808dbd3af"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/player_performance/consistency.json",
+      "sha256": "1ff237059da789b4150cb09eeafd4b2a20ffef4494d1441a0382de7c1e59a92d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/player_performance/efficiency.json",
+      "sha256": "73579f555959acd724151dfae2e426c3b45b38f152b201e7e820f2b8fcf4a339"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/player_performance/form.json",
+      "sha256": "ef4933e8b50b81ec96ff7c24c25ddf43af616a8f0901106f4f35e56ee886c876"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/analytics/player_performance/longest_streak.json",
+      "sha256": "efa76c27eb7e79cb98a81699896000d34ae612207091f9434459f4d12974a9e2"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/competition_context.json",
+      "sha256": "b4e344da57bc57660bc475bda7ac4505ffb12bbcb65ceb02b3b97b8f566aea3d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/leaderboard.json",
+      "sha256": "3b4b13f967effb6e310344b60193846f5e9edc9a34e67cdb3381fed5eec378e4"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/period_results.json",
+      "sha256": "c5b68fdd4ea6a148567852e87b051f4f30a20c2426aa11d041809f1f32270c39"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-2/periods/REG-2/details.json",
+      "sha256": "c47d2062a5f672f370747bd91bbf081865a18e9b3592966a6c3d4af0514026e7"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "885454437d72f087b3e4fb1e64847b44e414b8d5e25de85cd08d9e49a004c4bb"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "b8775740eaaf78cca74bf7df9f21def94239d30735589f1321c5a12d13f66fb6"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "fc76140cc1ad95c8c646b8430658d6dc66d342f717db258b90db4b6f302397bf"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "d8abf3973d42ff1014fd0448c97eab9e5ed39f3cf67fcc40e9d1fc9c794a7cd2"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "7b53893b42d6f14fb5f3407ff7766257d65f66efc240d3652ec6bd8c58bda4c6"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "e729d72d779a6ac9acdc27b09bd8d3079f609523b3fa597d5d951d844b492b63"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "372eaf538c647b3c0fa9a933fdb18f6837803250d9ce0256d757ddd1cfda3a58"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "599f0e91a6dbf2de2cb9813df8c1068441122412271ed0ecc9a3d7cf8438fa5a"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "3ea3f3372485ff7b61b1201960e2da717c448038c319e82a90197aca720a19f1"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "9bb4eaceee6d772e4d9236c81db977be4fb473631a4d4a67034c6615aa47073e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/football_knowledge/knowledge.json",
+      "sha256": "e72eb31486b128c880bd55a63beff1606fdbfb75f1c7c870e371a88162f9ef65"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/player_performance/consistency.json",
+      "sha256": "78467eb611cb97e30389e5a286af672f6f5ee1bd8b64d74c97dea948957691b0"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/player_performance/efficiency.json",
+      "sha256": "2d4ff248ff853899506c40b4ee21bc987add6dea426c5f513b4800b5bb218a69"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/player_performance/form.json",
+      "sha256": "658d53c0f64476236a24eb20aed6630e0fa992457cf9cb7b38155eb3c27b4a3f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/analytics/player_performance/longest_streak.json",
+      "sha256": "2422d1e430595da4a22dbb21facb43dfb3e22516cbea8f7e5905c37307c41617"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/competition_context.json",
+      "sha256": "04c815c1fe755ba15381d78a5808917ef336c6425481138e3940b6949a93bef3"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/leaderboard.json",
+      "sha256": "7bf1e166bbb415cec39463aaf02c0857a847b05dea7a6dab138eb984d35cc1d5"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/period_results.json",
+      "sha256": "54b7d933634e752d91222d52d0de48eb90d4378965fbb2bebac36749b14d177e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-3/periods/REG-3/details.json",
+      "sha256": "afe22417b4c741edff16a9da85ead37c31db6c71bacd641e44bc7a24ec2eec82"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "21c7475fe90d3c006cb6ba889217660051cb1b1768f80bbc0dc0fcb519dcab62"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "26ec1c8fdec3fdf48f292c4f97c244aa92bfa205ec0daa7ee2eddfc13731c7e7"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "b3c42bc585ccf86a65a09d7e2061f1cc83d9bb6703a6ab6e0a22a3d7b50e48b6"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "f54fc7e6d31745c04c8a22bd51dfa4c4e0d368a0e9da9539fa7c00287d3e3cba"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "a9434d66ffb36bd7b964dc800a77ca12a389b05ee4083ae3439d570b6f2d58f5"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "7c4327c35b4130c52c713bcfc9151173ee79577746d4686400882c93fb5e0cca"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "277f4e6c61b26f0920dcedaca0717a28764fd97d9cbab8e08f6bc5183a9b9941"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "8f53c38a5fe70e128b011d909bfd296989246549af74ba8745b50e885d6b8c08"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "46e29ea6d3c99568030b6257c74b30958b6841fad544776a72faf646a2b3bcc7"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "94aad8f185572471b7ce3a3fa5812c14994a8293d4145ff8c3deea4b2173f45b"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/football_knowledge/knowledge.json",
+      "sha256": "ab2a64b69306a0b2b4b11b2b733874aa9a99e9e07f34854534ad501eb7bbf799"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/player_performance/consistency.json",
+      "sha256": "455e18009c0a988d7fb1242f6fe9824d28bc7ba28e37d577196590a3417e8446"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/player_performance/efficiency.json",
+      "sha256": "9140544bbea6d41d6fa3e22c4bc49bb98bb149a5baea251863af25b6c046e0c0"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/player_performance/form.json",
+      "sha256": "9b3951d700405d3564ba04f1fa5a4f8ac0faa030963b3f5d15568b87eac17f1f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/analytics/player_performance/longest_streak.json",
+      "sha256": "866e07686e6a0299e61fa0b22eef07c68d99fe2ccb120e4dbe4b17e7ea9c1ffd"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/competition_context.json",
+      "sha256": "2aa8dbe562c92f67bf8d4bcecb6ce310710498e40d98d8ebee125cf7978ebe46"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/leaderboard.json",
+      "sha256": "b0245054c01597152e7c477e4061cbde8ef3a1591944fb9bb60d3770241600cf"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/period_results.json",
+      "sha256": "da90e58a4fa60616323b2624f844f0c13c760043ab492bb333a727e2641d061e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-4/periods/REG-4/details.json",
+      "sha256": "577cbe4b53100a11dcf5d48444ac38b7dad418ef494770e0a6b2222f9e8a9521"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "25bf8b51261db042b9f830f0a78dcf6cd9e3f48d45b2379c5ce5d399b94cbd99"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "239944a3d3a318347c881100885ad645bc8030e7f265ac8f0acac2b619f89ca2"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "ce9228bea3362cb0f5c1ee6e5ee6d56e0e0ec7cafdfce9643a3d7f63a02655ac"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "d830d23af6312118da52c40666d9dc70178637c4122f5e8a87e774f7a956d874"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "18950ca81a4b163c27ad9c59216b4ba2f2328a0d720e920d3731552ef3f05c9f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "a7db5d00a2c187be7c6bb5d319e6ad2ecc1f39d4d58d839171d6278df5a952aa"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "702d77571bceab94cccee139c83001f30f11738faccbb660a0316aefd2c8691a"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "00c9aeb7a122dea648926d52d3032dd8cf21257cff7472e3d5d248283ffe3316"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "2b054e8f2a746950c66cc0d10126486ccd02b7d9ebe653fb2b0156682e44e16c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "7149d3e420ba2bcd870805cdbc375704bdf1361986d365f51698d6db7a7048e9"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/football_knowledge/knowledge.json",
+      "sha256": "cae705b3d217c4d1253330197f16fad329232568c2f1db34f21704b9caa4f0cb"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/player_performance/consistency.json",
+      "sha256": "bd671d60066e1d2a31672ad9c9c7e8ecf0eb475883bbbc706d1f9f8b7e49c475"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/player_performance/efficiency.json",
+      "sha256": "87e04c418f25ab66848d051c453a3791d541b6ee3349c85899974c2caf94fa6f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/player_performance/form.json",
+      "sha256": "26392d6d301acb2b34eb407dfa7d9446dafaa3cfba254923501aca3be44ebe4c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/analytics/player_performance/longest_streak.json",
+      "sha256": "281faa127c3d0c07d044c743a0edec9d96102d0df7f0104c321b549810ae38c4"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/competition_context.json",
+      "sha256": "2aa8dbe562c92f67bf8d4bcecb6ce310710498e40d98d8ebee125cf7978ebe46"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/leaderboard.json",
+      "sha256": "f7244ae8ac11d056c96638b1cb782a0194eb16da005948dbd2e3266c1a78b785"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/period_results.json",
+      "sha256": "25ac0ac319a3f8b3f704ecb4584814ebd92cf2b363cf3d278284a808be77eb5d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-5/periods/REG-5/details.json",
+      "sha256": "239965362d916b01b2549f7cd8fd9e2bea180562c1a3898201cfb6e969735573"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "1b3ba72fac3825c896d9cbc519efd8e2cf46cdb579a33311df138bfa85df3410"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "d92c46838f34756bd204babcec4d08c5840d1546c18c13a014b15c629da6ea0a"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "37615199a298838dddad115269a8b54faa2edc8ff1700c7c84c854c18131f062"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "3a5495b4755e8bab46f45aa9c3567997e61ff2122ca1d32f31137a096940ca3d"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "79e2ed4bbfda42ffd53be1733662fbe719490b2b7703b4d9a8c5916d4d0401a9"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "14343eb552876cf25db2f904ec1c15b54fb82123c83f2c36f309236b58feab91"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "338c840ac0ebf1e909e7d28d5aa1286d0002d96b2c558c5ac648026537d4859b"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "8d3c50c933a2abea51e377265cb0276668b0e7281c1f9d0e664ec588c15b52c0"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "364f4abbcced0d65bb0b1a1c2def2016685b8033cc84ea20e8192f5c3e84f898"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "98ebb4734717250d33d8015eb0aaec7796ad833dbc437e942dc95ed7a0b24e7c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/football_knowledge/knowledge.json",
+      "sha256": "8c3fc7bac8ace2cb19d32fdb64a46eea08ebe654cbc37b2b0781c414bb8e8901"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/player_performance/consistency.json",
+      "sha256": "502483544103c93888c0907f28157607793f59ce9a8767430a6a9286b167ebac"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/player_performance/efficiency.json",
+      "sha256": "7f2d352052602ff72479ac73655ef14b2871287c2e8d5fb1b13bc120e05da1a9"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/player_performance/form.json",
+      "sha256": "2542457e9bc7fedf1ddab96d53fcc83437cb1b43a4b60c6eb2a511561a548cf6"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/analytics/player_performance/longest_streak.json",
+      "sha256": "4d32b3fd8e49f3f3b856c8c53a2a62c2db3ec5206e9cf74c565b84693ad74c4e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/competition_context.json",
+      "sha256": "2aa8dbe562c92f67bf8d4bcecb6ce310710498e40d98d8ebee125cf7978ebe46"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/leaderboard.json",
+      "sha256": "c9690b4b0308587f8f4da2512092904cf249f36a268a391923047cf3c658369f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/period_results.json",
+      "sha256": "6cbc508727e599a95946a54acf31cac085c9d341ab2f1ee4869a2c46a746648e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-6/periods/REG-6/details.json",
+      "sha256": "d3b8a657eb0b47bcf05a034ac1176ba3be326144795d9bd252c7dde4b50132b3"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/competition/consensus_intelligence.json",
+      "sha256": "b2de7370d53d11ea925f4587432e71cb51811a5a61c226a628859aec5bebbc58"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/competition/consensus_performance.json",
+      "sha256": "7c91757e95b0ace8a3851e245085505def931771689eb76444a163300cad99ef"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/competition/lock_preference.json",
+      "sha256": "f67b2a97c502a8b103ab30c348e57821d156668996cd8d5a2a2ec3fd93fe3313"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/competition/market_alignment.json",
+      "sha256": "48ca5cf07ba4abf0da225977f80f8c2915fbdcc068a7e8d12bc7a383c6ace51e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/competition/market_performance.json",
+      "sha256": "337fa3a88378748df490e2814e69afb50f42806e5c9e61323b770654cf93bf18"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/players/contrarian_play.json",
+      "sha256": "8d721649a06562ade2d51b43f10afefc52c7ee17810a65a5d52c52e4954e7d74"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/players/lock_efficiency.json",
+      "sha256": "cfc7ae9353b17fb403e88cd37ce2de6f3d7b5a8c209951e6c9a8667899eae24e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/players/lock_preference.json",
+      "sha256": "c994dc77fb234ddc363e95a5f27c0ff1aa19284d78d53be01a920e0d7a07cc79"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/players/market_alignment.json",
+      "sha256": "2aa7503d02f746e999fc0926cdd7f4b8e99e4b7a4100a5cb075d6ee1e550333c"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/decision_intelligence/players/player_market_performance.json",
+      "sha256": "cb785ebb9ffa45fb0d411d0e473d7bd9c0ddc39471648de518bf99e09183be25"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/football_knowledge/knowledge.json",
+      "sha256": "782ba48ef55210e2350b9ec63685c36f463a4da013fdb90ed8d8ab404015f6b3"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/player_performance/consistency.json",
+      "sha256": "bd76b0f511f14b6946a794037879202af834122b2620333e60b44966972da8a7"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/player_performance/efficiency.json",
+      "sha256": "0ae3bd17f571ff0b9596fcb836a7dbb70c1a6881154999728cb088f079616d7e"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/player_performance/form.json",
+      "sha256": "d40b64cbac51be7a2ee3378b2c81d90d8fecca2092957721cbd252c3f24e9e18"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/analytics/player_performance/longest_streak.json",
+      "sha256": "c518897b76e40d40841c7a0703f127b274b4221882e3399635ccb071eb535783"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/competition_context.json",
+      "sha256": "2aa8dbe562c92f67bf8d4bcecb6ce310710498e40d98d8ebee125cf7978ebe46"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/leaderboard.json",
+      "sha256": "65712322638eddeae5a949a0ba5d6fae37229150fac965a8754b1ed41e0ddfcc"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/period_results.json",
+      "sha256": "25b68af45816f2ea818ff803f43ba7d617d930601480bf9de727b5c7069aeb9f"
+    },
+    {
+      "path": "data/NFL2026/checkpoints/REG-7/periods/REG-7/details.json",
+      "sha256": "5b14ec2fcd3045965aefbdc1fe40cb56aa26e949fcd0aac384e1c8773872f165"
+    },
+    {
+      "path": "data/NFL2026/consensus.json",
+      "sha256": "f5208654ca19ffa6fce2bbf5fd186cbe7ac265577fc375e4632bbd45a426f561"
+    },
+    {
+      "path": "data/NFL2026/manifest.json",
+      "sha256": "9ce53b97f481b7fa52e49962aadab9457723ec3646456b8e94006097631cf608"
+    },
+    {
+      "path": "data/NFL2026/period-settlements.json",
+      "sha256": "7a723fdbd039a11a25e6e42ddadc4c259eb7efaa94ca97da2fb3a5819abb347c"
+    },
+    {
+      "path": "data/NFL2026/pods.json",
+      "sha256": "bf3e1688679a185df479138cf680387a289083644232f356b281f5d1aaa1644b"
+    }
+  ]
+}
