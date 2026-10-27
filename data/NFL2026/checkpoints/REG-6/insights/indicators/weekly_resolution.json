@@ -1,0 +1,1064 @@
+{
+  "contract_type": "betz_preview_projection",
+  "contract_version": "1.0",
+  "competition_id": "NFL2026",
+  "freeze_cursor": "REG093",
+  "evaluation_cursor": "REG093",
+  "indicator_id": "weekly_resolution",
+  "players": [
+    {
+      "user_id": "ADOLFO_LOZANO",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "BTO_Z",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "CHIEFS_FAN",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "DAVIDMAGANA",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "DIEGOMAGANA",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "EZC",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "LOST_TIEBREAK",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": "lock_winner",
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "GABOBC",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "GOLDEN_EAGLE",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "GSG",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "HZE",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "JMTZCELIZ",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "LJMV",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "MARIOVILLARREAL",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "NSA",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "PACOT",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "WON_TIEBREAK",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "PEPE_SANCHEZ",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    },
+    {
+      "user_id": "YEU",
+      "weekly_outcome": {
+        "status": "available",
+        "reason_code": null,
+        "outcome_code": "OTHER_RESULT",
+        "official_source_ref": "scoring/NFL2026/period_results.json#080_REG080",
+        "initial_tied_user_ids": [
+          "EZC",
+          "PACOT"
+        ],
+        "winner_ids": [
+          "PACOT"
+        ],
+        "prize_split": false,
+        "decisive_criterion_id": "lock_winner",
+        "eliminated_at_criterion_id": null,
+        "resolution_steps": [
+          {
+            "criterion_id": "period_score",
+            "outcome": "tie",
+            "remaining_user_ids": [
+              "EZC",
+              "PACOT"
+            ]
+          },
+          {
+            "criterion_id": "lock_winner",
+            "outcome": "resolved",
+            "remaining_user_ids": [
+              "PACOT"
+            ]
+          }
+        ],
+        "lock_evidence": [
+          {
+            "user_id": "EZC",
+            "eligible": true,
+            "match_id": "REG088",
+            "winner_correct": false,
+            "predicted_home_score": 20,
+            "predicted_away_score": 5,
+            "predicted_total_points": 25,
+            "actual_total_points": 46,
+            "total_points_distance": 21,
+            "eliminated_at_criterion_id": "lock_winner"
+          },
+          {
+            "user_id": "PACOT",
+            "eligible": true,
+            "match_id": "REG087",
+            "winner_correct": true,
+            "predicted_home_score": 17,
+            "predicted_away_score": 27,
+            "predicted_total_points": 44,
+            "actual_total_points": 45,
+            "total_points_distance": 1,
+            "eliminated_at_criterion_id": null
+          }
+        ]
+      }
+    }
+  ]
+}

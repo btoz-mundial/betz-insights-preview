@@ -52,6 +52,70 @@ document.addEventListener("click", event => {
 }, true);
 
 //--------------------------------------------------------------
-// 3. Start the existing, contract-driven read app
+// 3. Isolated Insights route: share the current profile and checkpoint
+//--------------------------------------------------------------
+const insightParams=new URL(location.href).searchParams;
+const insightState={bundle:null,mode:insightParams.get("modo")==="comparar"?"compare":"player",scope:insightParams.get("alcance")==="jornada"?"week":"season",rival:insightParams.get("rival")||"PACOT",request:0};
+if(insightParams.get("jugador"))state.player=insightParams.get("jugador");
+TABS.splice(3,0,["insights","Insights"]);
+ICONS.insights='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16M6 15v-4M12 15V5M18 15V8"/><path d="m4 6 3-3 3 3"/></svg>';
+nav.innerHTML=TABS.map(([r,l])=>'<button data-go="'+r+'">'+(ICONS[r]||"")+'<span>'+l+'</span></button>').join("");
+const insightsScreen=document.createElement("section");
+insightsScreen.className="screen";insightsScreen.dataset.route="insights";insightsScreen.setAttribute("aria-label","Insights");
+document.querySelector("main").appendChild(insightsScreen);
+const profileEntry=document.createElement("button");profileEntry.type="button";profileEntry.className="ix-profile-entry";profileEntry.dataset.go="insights";
+el("p-di").after(profileEntry);
+function insightSelectionUrl(url){
+  const out=new URL(url,location.href);
+  out.searchParams.set("jugador",state.player);
+  out.searchParams.set("modo",insightState.mode==="compare"?"comparar":"jugador");
+  if(insightState.mode==="compare"){out.searchParams.set("rival",insightState.rival);out.searchParams.set("alcance",insightState.scope==="week"?"jornada":"temporada");}
+  else{out.searchParams.delete("rival");out.searchParams.delete("alcance");}
+  return out.pathname+out.search+out.hash;
+}
+function rememberInsightSelection(){if(currentRoute()==="insights")history.replaceState(null,"",insightSelectionUrl(location.href));}
+function renderInsights(){
+  const bundle=insightState.bundle;
+  if(bundle&&!bundle.players.some(p=>p.user_id===insightState.rival&&p.user_id!==state.player))insightState.rival=bundle.players.find(p=>p.user_id!==state.player)?.user_id||null;
+  const periodLabels=Object.fromEntries((state.periodResults?.periods||[]).map(p=>[p.period_id,periodLabel(p)]));
+  const matchLabels=Object.fromEntries((state.context?.matches||[]).map(m=>[m.match_id,m.away_team.id+" @ "+m.home_team.id]));
+  const active=document.activeElement,focusId=insightsScreen.contains(active)?active.id:null;
+  insightsScreen.innerHTML=BetzInsightsView.render(bundle,{player:state.player,rival:insightState.rival,mode:insightState.mode,scope:insightState.scope,checkpointLabel:checkpointLabel(state.cp),periodLabels,matchLabels});
+  if(focusId)document.getElementById(focusId)?.focus({preventScroll:true});
+  const p=bundle?.players.find(p=>p.user_id===state.player);
+  profileEntry.innerHTML=p&&["available","provisional"].includes(p.season_accuracy.status)?'<span><b>'+BetzInsightsView.percent(p.season_accuracy.accuracy_rate)+' de efectividad</b><small>'+p.season_accuracy.correct+' de '+p.season_accuracy.resolved_opportunities+' aciertos · Ver Insights</small></span><span aria-hidden="true">↗</span>':'<span><b>Tu juego, en números</b><small>Abrir Insights</small></span><span aria-hidden="true">↗</span>';
+}
+async function loadInsights(){
+  const request=++insightState.request;insightState.bundle=null;
+  try{
+    const b=await getJSON("checkpoints/"+state.cp+"/insights/player_insights.json");
+    if(b.contract_type!=="betz_player_insights_preview"||b.contract_version!=="1.0"||b.competition_id!=="NFL2026"||b.selected_period?.checkpoint_id!==state.cp||!Array.isArray(b.players)||!b.players.length||!Array.isArray(b.pair_comparisons))throw new Error("INSIGHTS_VIEW_CONTRACT_INVALID");
+    if(request===insightState.request)insightState.bundle=b;
+  }catch(e){if(request===insightState.request)insightState.bundle=null;}
+  if(request===insightState.request){renderInsights();rememberInsightSelection();}
+}
+const previewLoadCheckpoint=loadCheckpoint;
+loadCheckpoint=async function(){await previewLoadCheckpoint();await loadInsights();};
+const previewSelectPlayer=selectPlayer;
+selectPlayer=function(id){previewSelectPlayer(id);renderInsights();rememberInsightSelection();};
+const previewGo=go;
+go=function(route){previewGo(route);if(route==="insights"){renderInsights();rememberInsightSelection();}};
+const previewCheckpointUrl=publicCheckpointUrl;
+publicCheckpointUrl=function(id){const url=previewCheckpointUrl(id);return currentRoute()==="insights"?insightSelectionUrl(url):url;};
+const previewRenderPerfil=renderPerfil;
+renderPerfil=function(){previewRenderPerfil();const label=el("p-perf").querySelector('[data-explain="efficiency"] .k');if(label)label.textContent="Conversión de puntos";renderInsights();};
+EXPLAIN.efficiency.t="Conversión de puntos";
+insightsScreen.addEventListener("change",event=>{
+  if(event.target.id==="insights-player")selectPlayer(event.target.value);
+  if(event.target.id==="insights-rival"){insightState.rival=event.target.value;renderInsights();rememberInsightSelection();}
+});
+insightsScreen.addEventListener("click",event=>{
+  const mode=event.target.closest("[data-ix-mode]"),scope=event.target.closest("[data-ix-scope]");
+  if(mode){insightState.mode=mode.dataset.ixMode;renderInsights();rememberInsightSelection();insightsScreen.querySelector('[data-ix-mode="'+insightState.mode+'"]').focus({preventScroll:true});}
+  if(scope){insightState.scope=scope.dataset.ixScope;renderInsights();rememberInsightSelection();insightsScreen.querySelector('[data-ix-scope="'+insightState.scope+'"]').focus({preventScroll:true});}
+  if(event.target.closest("[data-ix-retry]"))loadInsights();
+});
+//--------------------------------------------------------------
+// 4. Start the existing read app; no provider, capture or scoring is invoked
 //--------------------------------------------------------------
 boot();
