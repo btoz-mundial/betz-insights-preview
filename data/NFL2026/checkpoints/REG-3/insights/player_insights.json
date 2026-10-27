@@ -193,6 +193,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -406,6 +425,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.625,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 10,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 10,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -610,6 +648,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -839,6 +896,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1043,6 +1113,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1247,6 +1330,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.5,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 8,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1451,6 +1547,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1657,6 +1766,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1861,6 +1983,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2069,6 +2204,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2278,6 +2426,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2500,6 +2661,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2798,6 +2972,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.625,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 10,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 10,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3006,6 +3199,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3210,6 +3416,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3450,6 +3669,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.5625,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 9,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "033_REG033",
+            "checkpoint_id": "REG-3",
+            "correct": 9,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3663,6 +3901,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",

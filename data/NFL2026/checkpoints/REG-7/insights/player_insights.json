@@ -227,6 +227,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -504,6 +523,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8125,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 13,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -788,6 +820,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1064,6 +1109,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1373,6 +1431,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1699,6 +1770,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.714286,
+        "periods": [
+          {
+            "period_id": "080_REG080",
+            "checkpoint_id": "REG-6",
+            "correct": 10,
+            "resolved_opportunities": 14
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -1973,6 +2057,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2291,6 +2388,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2577,6 +2687,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -2853,6 +2982,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8,
+        "periods": [
+          {
+            "period_id": "065_REG065",
+            "checkpoint_id": "REG-5",
+            "correct": 12,
+            "resolved_opportunities": 15
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3137,6 +3279,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3412,6 +3567,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3704,6 +3872,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8125,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 13,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -3980,6 +4161,25 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -4257,6 +4457,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.714286,
+        "periods": [
+          {
+            "period_id": "080_REG080",
+            "checkpoint_id": "REG-6",
+            "correct": 10,
+            "resolved_opportunities": 14
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -4560,6 +4773,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.625,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 10,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",
@@ -4834,6 +5060,19 @@
           }
         }
       ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      },
       "consensus_performance": {
         "season": {
           "status": "available",

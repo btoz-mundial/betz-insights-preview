@@ -120,7 +120,26 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "BTO_Z",
@@ -236,7 +255,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8125,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 13,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "CHIEFS_FAN",
@@ -352,7 +384,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "DAVIDMAGANA",
@@ -468,7 +513,20 @@
             "coverage_rate": 0.357143
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "DIEGOMAGANA",
@@ -584,7 +642,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "EZC",
@@ -700,7 +771,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.714286,
+        "periods": [
+          {
+            "period_id": "080_REG080",
+            "checkpoint_id": "REG-6",
+            "correct": 10,
+            "resolved_opportunities": 14
+          }
+        ]
+      }
     },
     {
       "user_id": "GABOBC",
@@ -816,7 +900,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "017_REG017",
+            "checkpoint_id": "REG-2",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "GOLDEN_EAGLE",
@@ -932,7 +1029,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "GSG",
@@ -1048,7 +1158,26 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "HZE",
@@ -1164,7 +1293,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8,
+        "periods": [
+          {
+            "period_id": "065_REG065",
+            "checkpoint_id": "REG-5",
+            "correct": 12,
+            "resolved_opportunities": 15
+          }
+        ]
+      }
     },
     {
       "user_id": "JMTZCELIZ",
@@ -1280,7 +1422,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "LJMV",
@@ -1396,7 +1551,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.75,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 12,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "MARIOVILLARREAL",
@@ -1512,7 +1680,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.8125,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 13,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "NSA",
@@ -1628,7 +1809,26 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          },
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "PACOT",
@@ -1744,7 +1944,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.714286,
+        "periods": [
+          {
+            "period_id": "080_REG080",
+            "checkpoint_id": "REG-6",
+            "correct": 10,
+            "resolved_opportunities": 14
+          }
+        ]
+      }
     },
     {
       "user_id": "PEPE_SANCHEZ",
@@ -1860,7 +2073,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.625,
+        "periods": [
+          {
+            "period_id": "049_REG049",
+            "checkpoint_id": "REG-4",
+            "correct": 10,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     },
     {
       "user_id": "YEU",
@@ -1976,7 +2202,20 @@
             "coverage_rate": 1
           }
         }
-      ]
+      ],
+      "best_week": {
+        "status": "available",
+        "reason_code": null,
+        "accuracy_rate": 0.6875,
+        "periods": [
+          {
+            "period_id": "001_REG001",
+            "checkpoint_id": "REG-1",
+            "correct": 11,
+            "resolved_opportunities": 16
+          }
+        ]
+      }
     }
   ]
 }

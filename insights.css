@@ -120,3 +120,21 @@
 .ix-table .ix-total-row>*{color:var(--turq);font-weight:700;background:rgba(10,245,225,.04)}
 
 .ix-select-context{display:block;margin-top:6px;color:var(--muted);font-size:9px;line-height:1.4}
+
+/* Best completed-period accuracy is published by Player Performance. */
+.ix-best{border-top:1px solid var(--ix-border);padding-top:14px;margin-top:16px}
+.ix-best-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.ix-best-head>span{font:600 11px var(--body);color:var(--muted)}
+.ix-best-value{font:700 25px var(--display);letter-spacing:-.7px;color:var(--txt);font-variant-numeric:tabular-nums}
+.ix-best-periods{display:grid;gap:8px;margin-top:9px}
+.ix-best-period{display:flex;align-items:baseline;justify-content:space-between;gap:10px;font-size:12px}
+.ix-best-period small{font-size:11px;color:var(--muted)}
+.ix-best-note{display:block;font-size:9px;color:var(--muted);margin-top:9px;line-height:1.5}
+.ix-versus .ix-best{margin-top:5px;padding-top:12px;width:100%}
+.ix-versus .ix-best-head{display:flex;flex-direction:column;gap:6px;align-items:flex-start}
+.ix-versus>div:last-child .ix-best-head{align-items:flex-end}
+.ix-versus .ix-best-value{font-size:23px;letter-spacing:-.5px}
+.ix-versus .ix-best-period{display:flex;flex-direction:column;gap:4px;font-size:11px;align-items:flex-start}
+.ix-versus>div:last-child .ix-best-period{align-items:flex-end}
+.ix-versus .ix-best-period small{font-size:10px}
+.ix-versus{align-items:start}.ix-versus>.ix-vs{margin-top:45px}
