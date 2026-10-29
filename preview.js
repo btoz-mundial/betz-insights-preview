@@ -4,6 +4,7 @@
 // 1. Preview-only runtime: a frozen, same-origin public snapshot
 //--------------------------------------------------------------
 const PREVIEW_REPOSITORY = "btoz-mundial/betz-insights-preview";
+const previewAssetVersion=document.currentScript?new URL(document.currentScript.src,document.baseURI).searchParams.get("v"):null;
 loadRuntime = async function loadPreviewRuntime(){
   if(location.hostname === "betz-app.github.io") throw new Error("PREVIEW_PRODUCTION_HOST_BLOCKED");
   const read = async name => {
@@ -146,7 +147,12 @@ tableSwitch.addEventListener("click",event=>{const button=event.target.closest("
 const previewTableGo=go;
 go=function(route){previewTableGo(route);if(route==="tabla"){renderTableScope();rememberTableScope();}};
 const previewTableCheckpointUrl=publicCheckpointUrl;
-publicCheckpointUrl=function(id){const url=previewTableCheckpointUrl(id);return currentRoute()==="tabla"?tableSelectionUrl(url):url;};
+publicCheckpointUrl=function(id){
+  const url=new URL(previewTableCheckpointUrl(id),location.href);
+  if(previewAssetVersion)url.searchParams.set("v",previewAssetVersion);
+  const path=url.pathname+url.search+url.hash;
+  return currentRoute()==="tabla"?tableSelectionUrl(path):path;
+};
 // Keep Tabla on its visible checkpoint even after Partidos browses another period.
 const previewRenderTabla=renderTabla;
 renderTabla=function(){
