@@ -116,6 +116,36 @@ insightsScreen.addEventListener("click",event=>{
   if(event.target.closest("[data-ix-retry]"))loadInsights();
 });
 //--------------------------------------------------------------
+// 3a. Table view switches existing official lists without rebuilding their data
+//--------------------------------------------------------------
+const tableScreen=document.querySelector('.screen[data-route="tabla"]');
+let tableScope=insightParams.get("tabla")==="acumulado"?"acumulado":"jornada";
+const tableSwitch=document.createElement("div");
+tableSwitch.className="ix-mode tabla-scope";
+tableSwitch.setAttribute("role","group");tableSwitch.setAttribute("aria-label","Clasificación de la tabla");
+tableSwitch.innerHTML='<button type="button" data-table-scope="jornada" aria-controls="tabla-jornada">Jornada</button><button type="button" data-table-scope="acumulado" aria-controls="tabla-acumulado">Acumulado</button>';
+const weeklyTablePanel=document.createElement("div"),seasonTablePanel=document.createElement("div");
+weeklyTablePanel.id="tabla-jornada";seasonTablePanel.id="tabla-acumulado";
+weeklyTablePanel.setAttribute("role","region");weeklyTablePanel.setAttribute("aria-label","Tabla de jornada");
+seasonTablePanel.setAttribute("role","region");seasonTablePanel.setAttribute("aria-label","Tabla acumulada");
+const weeklyNavigation=el("tabla-prev").closest(".wknav-pill");
+weeklyTablePanel.append(weeklyNavigation.previousElementSibling,weeklyNavigation,el("weekly-leaderboard"),el("weekly-note"),el("weekly-lock-note"));
+const accumulatedList=el("leaderboard");
+seasonTablePanel.append(accumulatedList.previousElementSibling,accumulatedList,accumulatedList.nextElementSibling);
+tableScreen.querySelector(".season-summary").after(tableSwitch,weeklyTablePanel,seasonTablePanel);
+function renderTableScope(){
+  weeklyTablePanel.hidden=tableScope!=="jornada";seasonTablePanel.hidden=tableScope!=="acumulado";
+  tableSwitch.querySelectorAll("[data-table-scope]").forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.tableScope===tableScope)));
+}
+function tableSelectionUrl(value){const url=new URL(value,location.href);url.searchParams.set("tabla",tableScope);return url.pathname+url.search+url.hash;}
+function rememberTableScope(){if(currentRoute()==="tabla")history.replaceState(null,"",tableSelectionUrl(location.href));}
+tableSwitch.addEventListener("click",event=>{const button=event.target.closest("[data-table-scope]");if(!button)return;tableScope=button.dataset.tableScope;renderTableScope();rememberTableScope();});
+const previewTableGo=go;
+go=function(route){previewTableGo(route);if(route==="tabla"){renderTableScope();rememberTableScope();}};
+const previewTableCheckpointUrl=publicCheckpointUrl;
+publicCheckpointUrl=function(id){const url=previewTableCheckpointUrl(id);return currentRoute()==="tabla"?tableSelectionUrl(url):url;};
+renderTableScope();
+//--------------------------------------------------------------
 // 4. Start the existing read app; no provider, capture or scoring is invoked
 //--------------------------------------------------------------
 boot();
