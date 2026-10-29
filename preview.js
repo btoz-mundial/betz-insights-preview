@@ -129,7 +129,10 @@ weeklyTablePanel.id="tabla-jornada";seasonTablePanel.id="tabla-acumulado";
 weeklyTablePanel.setAttribute("role","region");weeklyTablePanel.setAttribute("aria-label","Tabla de jornada");
 seasonTablePanel.setAttribute("role","region");seasonTablePanel.setAttribute("aria-label","Tabla acumulada");
 const weeklyNavigation=el("tabla-prev").closest(".wknav-pill");
-weeklyTablePanel.append(weeklyNavigation.previousElementSibling,weeklyNavigation,el("weekly-leaderboard"),el("weekly-note"),el("weekly-lock-note"));
+weeklyNavigation.previousElementSibling.remove();
+// Retain the hidden IDs for the base renderer; the checkpoint pills own selection.
+weeklyNavigation.hidden=true;
+weeklyTablePanel.append(weeklyNavigation,el("weekly-leaderboard"),el("weekly-note"),el("weekly-lock-note"));
 const accumulatedList=el("leaderboard");
 seasonTablePanel.append(accumulatedList.previousElementSibling,accumulatedList,accumulatedList.nextElementSibling);
 tableScreen.querySelector(".season-summary").after(tableSwitch,weeklyTablePanel,seasonTablePanel);
@@ -144,6 +147,13 @@ const previewTableGo=go;
 go=function(route){previewTableGo(route);if(route==="tabla"){renderTableScope();rememberTableScope();}};
 const previewTableCheckpointUrl=publicCheckpointUrl;
 publicCheckpointUrl=function(id){const url=previewTableCheckpointUrl(id);return currentRoute()==="tabla"?tableSelectionUrl(url):url;};
+// Keep Tabla on its visible checkpoint even after Partidos browses another period.
+const previewRenderTabla=renderTabla;
+renderTabla=function(){
+  const previousPeriodIndex=state.periodIndex;
+  state.periodIndex=periods().findIndex(period=>periodCheckpointId(period)===state.cp);
+  try{previewRenderTabla();}finally{state.periodIndex=previousPeriodIndex;}
+};
 renderTableScope();
 //--------------------------------------------------------------
 // 4. Start the existing read app; no provider, capture or scoring is invoked

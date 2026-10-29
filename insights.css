@@ -144,6 +144,6 @@
 .ix-table .ix-bonus-row>th:first-child{padding-left:16px}
 
 /* Tabla shares the Insights mode switch and keeps one classification visible. */
-[data-route="tabla"] #tabla-jornada[hidden],[data-route="tabla"] #tabla-acumulado[hidden]{display:none!important}
+[data-route="tabla"] #tabla-jornada[hidden],[data-route="tabla"] #tabla-acumulado[hidden],[data-route="tabla"] .wknav-pill[hidden]{display:none!important}
 [data-route="tabla"] .tabla-scope{margin:0 0 20px}
 [data-route="tabla"] .tabla-scope :focus-visible{outline:2px solid var(--turq);outline-offset:4px}
