@@ -138,3 +138,7 @@
 .ix-versus>div:last-child .ix-best-period{align-items:flex-end}
 .ix-versus .ix-best-period small{font-size:10px}
 .ix-versus{align-items:start}.ix-versus>.ix-vs{margin-top:45px}
+
+/* Published bonus sources remain subordinate to the extra-points subtotal. */
+.ix-table .ix-bonus-row>*{font-size:11px;color:var(--muted);padding-top:8px;padding-bottom:8px}
+.ix-table .ix-bonus-row>th:first-child{padding-left:16px}

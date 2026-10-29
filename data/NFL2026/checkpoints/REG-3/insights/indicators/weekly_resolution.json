@@ -37,14 +37,38 @@
           "reason_code": null,
           "correct_points": 27,
           "extra_points": 3,
-          "total_points": 30
+          "total_points": 30,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 5,
           "extra_points": 2,
-          "total_points": 7
+          "total_points": 7,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -79,14 +103,28 @@
           "reason_code": null,
           "correct_points": 29,
           "extra_points": 2,
-          "total_points": 31
+          "total_points": 31,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 9,
           "extra_points": 1,
-          "total_points": 10
+          "total_points": 10,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -121,14 +159,38 @@
           "reason_code": null,
           "correct_points": 29,
           "extra_points": 4,
-          "total_points": 33
+          "total_points": 33,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 2
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 7,
           "extra_points": 2,
-          "total_points": 9
+          "total_points": 9,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -163,14 +225,22 @@
           "reason_code": null,
           "correct_points": 24,
           "extra_points": 1,
-          "total_points": 25
+          "total_points": 25,
+          "extra_breakdown": [
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 2,
           "extra_points": 0,
-          "total_points": 2
+          "total_points": 2,
+          "extra_breakdown": []
         }
       }
     },
@@ -205,14 +275,16 @@
           "reason_code": null,
           "correct_points": 26,
           "extra_points": 0,
-          "total_points": 26
+          "total_points": 26,
+          "extra_breakdown": []
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 7,
           "extra_points": 0,
-          "total_points": 7
+          "total_points": 7,
+          "extra_breakdown": []
         }
       }
     },
@@ -247,14 +319,16 @@
           "reason_code": null,
           "correct_points": 14,
           "extra_points": 0,
-          "total_points": 14
+          "total_points": 14,
+          "extra_breakdown": []
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 0,
           "extra_points": 0,
-          "total_points": 0
+          "total_points": 0,
+          "extra_breakdown": []
         }
       }
     },
@@ -289,14 +363,27 @@
           "reason_code": null,
           "correct_points": 29,
           "extra_points": 4,
-          "total_points": 33
+          "total_points": 33,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 2
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 9,
           "extra_points": 0,
-          "total_points": 9
+          "total_points": 9,
+          "extra_breakdown": []
         }
       }
     },
@@ -331,14 +418,16 @@
           "reason_code": null,
           "correct_points": 22,
           "extra_points": 0,
-          "total_points": 22
+          "total_points": 22,
+          "extra_breakdown": []
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 0,
           "extra_points": 0,
-          "total_points": 0
+          "total_points": 0,
+          "extra_breakdown": []
         }
       }
     },
@@ -373,14 +462,22 @@
           "reason_code": null,
           "correct_points": 29,
           "extra_points": 1,
-          "total_points": 30
+          "total_points": 30,
+          "extra_breakdown": [
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 9,
           "extra_points": 0,
-          "total_points": 9
+          "total_points": 9,
+          "extra_breakdown": []
         }
       }
     },
@@ -415,14 +512,38 @@
           "reason_code": null,
           "correct_points": 33,
           "extra_points": 6,
-          "total_points": 39
+          "total_points": 39,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 3
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 3
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 10,
           "extra_points": 2,
-          "total_points": 12
+          "total_points": 12,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -457,14 +578,33 @@
           "reason_code": null,
           "correct_points": 30,
           "extra_points": 5,
-          "total_points": 35
+          "total_points": 35,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 3
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 2
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 9,
           "extra_points": 1,
-          "total_points": 10
+          "total_points": 10,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -499,14 +639,33 @@
           "reason_code": null,
           "correct_points": 26,
           "extra_points": 3,
-          "total_points": 29
+          "total_points": 29,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 6,
           "extra_points": 1,
-          "total_points": 7
+          "total_points": 7,
+          "extra_breakdown": [
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -541,14 +700,22 @@
           "reason_code": null,
           "correct_points": 28,
           "extra_points": 2,
-          "total_points": 30
+          "total_points": 30,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 8,
           "extra_points": 0,
-          "total_points": 8
+          "total_points": 8,
+          "extra_breakdown": []
         }
       }
     },
@@ -583,14 +750,28 @@
           "reason_code": null,
           "correct_points": 27,
           "extra_points": 1,
-          "total_points": 28
+          "total_points": 28,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 6,
           "extra_points": 1,
-          "total_points": 7
+          "total_points": 7,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -625,14 +806,27 @@
           "reason_code": null,
           "correct_points": 29,
           "extra_points": 3,
-          "total_points": 32
+          "total_points": 32,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 2
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 8,
           "extra_points": 0,
-          "total_points": 8
+          "total_points": 8,
+          "extra_breakdown": []
         }
       }
     },
@@ -667,14 +861,38 @@
           "reason_code": null,
           "correct_points": 26,
           "extra_points": 4,
-          "total_points": 30
+          "total_points": 30,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 3
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 9,
           "extra_points": 2,
-          "total_points": 11
+          "total_points": 11,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         }
       }
     },
@@ -709,14 +927,33 @@
           "reason_code": null,
           "correct_points": 30,
           "extra_points": 4,
-          "total_points": 34
+          "total_points": 34,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 3
+            },
+            {
+              "source_type": "modifier",
+              "source_id": "random_group_modifier",
+              "points": 1
+            }
+          ]
         },
         "week": {
           "status": "available",
           "reason_code": null,
           "correct_points": 10,
           "extra_points": 1,
-          "total_points": 11
+          "total_points": 11,
+          "extra_breakdown": [
+            {
+              "source_type": "component",
+              "source_id": "lock_winner_bonus",
+              "points": 1
+            }
+          ]
         }
       }
     }
